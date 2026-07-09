@@ -6,7 +6,8 @@ MODELO ?=            # vazio = usa configs/config.yaml (claude-opus-4-8)
 JUIZ ?= llm
 
 .PHONY: setup coletar processar indexar baseline agente agente-mock \
-        avaliar avaliar-baseline avaliar-mock eda test smoke pipeline-offline tudo
+        avaliar avaliar-baseline avaliar-mock eda data-card test smoke app \
+        pipeline-offline tudo
 
 setup:
 	python3.12 -m venv .venv || python3 -m venv .venv
@@ -49,6 +50,10 @@ data-card:
 
 test:
 	$(PY) -m pytest
+
+# Interface web (Streamlit) — http://localhost:8501
+app:
+	$(PY) -m streamlit run app/app.py
 
 # Smoke test offline: exercita o pipeline completo sem chave de API
 smoke: baseline agente-mock avaliar-baseline avaliar-mock

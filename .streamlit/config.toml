@@ -1,0 +1,12 @@
+[theme]
+# Segue o tema claro/escuro do sistema; a paleta de séries vem de ui/tema.py,
+# com passos próprios para cada modo (não é um "flip" automático).
+primaryColor = "#2a78d6"
+font = "sans-serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false

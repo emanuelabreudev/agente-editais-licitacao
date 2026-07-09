@@ -159,7 +159,29 @@ com as metas da pergunta de pesquisa:
 | Taxa de alucinação | ≤ 0,10 | `resumo.taxa_alucinacao` |
 | Custo/latência por edital | reportar | `por_edital[].uso` e `latencia_s` |
 
-## 6. Reprodutibilidade
+## 6. Interface web (Streamlit)
+
+```bash
+make app          # http://localhost:8501
+```
+
+A interface expõe todas as capacidades do projeto em sete páginas:
+
+| Página | O que faz |
+|---|---|
+| **Visão geral** | Métricas frente às metas da pergunta de pesquisa, composição da amostra, EDA e fração do ground truth verificável no texto |
+| **Editais** | Tabela do benchmark (exportável) e detalhe por edital: metadados oficiais, documento (SHA256, método de extração, avisos de OCR), texto com busca e navegador de chunks/seções |
+| **Busca semântica** | Playground da ferramenta `buscar_trechos` do agente: consulta livre ou preset, top-k ajustável, scores de similaridade e expansão de contexto (`ler_trecho`) |
+| **Extração** | Roda baseline ou agente (MockLLM/LLM real) ao vivo; mostra os 8 campos com confiança, **evidência citada com destaque no chunk de origem**, validação da citação, acerto vs. ground truth, custo/tokens/latência e trace das ferramentas |
+| **Avaliação RAGAS** | Faithfulness, Answer Correctness, taxa de alucinação e citações válidas com IC 95%; acurácia por campo comparando agente × baseline; tabela por edital e custo total |
+| **Analisar novo edital** | Pipeline sob demanda para um edital **fora do benchmark**: upload (PDF/DOCX/ZIP) ou download direto do PNCP pelo número de controle → extração → indexação → agente, com evidências |
+| **Sobre** | Pergunta de pesquisa, arquitetura, controle de alucinação, ética/licença e estado do ambiente |
+
+A chave da Anthropic pode ser informada na barra lateral (usada apenas na sessão, nunca
+gravada); sem ela, o modo **MockLLM** mantém tudo navegável offline. Gráficos são
+interativos (Altair) e a paleta tem passos próprios para tema claro e escuro.
+
+## 7. Reprodutibilidade
 
 Requisitos: Python ≥ 3.11 (testado em 3.12), ~2 GB de disco (modelo de embeddings) e,
 opcionalmente, `tesseract-ocr` + `tesseract-ocr-por` + `poppler-utils` para OCR de PDFs
@@ -202,7 +224,7 @@ src/edital_agent/
 tests/                     # suíte offline (embedder fake, LLM mock)
 ```
 
-## 7. Ética, licença e limitações
+## 8. Ética, licença e limitações
 
 - Dados públicos oficiais (Lei 12.527/2011), sem PII; uso acadêmico. Código sob MIT.
 - O sistema é **apoio à triagem** — não substitui análise jurídica.
@@ -211,7 +233,7 @@ tests/                     # suíte offline (embedder fake, LLM mock)
   `gt_presente_no_texto`); OCR depende de binários externos; anexos além de 150 páginas
   são truncados no piloto (`max_paginas_pdf`).
 
-## 8. Referências
+## 9. Referências
 
 - Es, S. et al. **RAGAS: Automated Evaluation of Retrieval Augmented Generation**. 2023.
   arXiv:2309.15217.
