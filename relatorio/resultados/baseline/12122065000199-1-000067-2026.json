@@ -1,0 +1,15 @@
+{
+  "id_edital": "12122065000199-1-000067-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": null,
+    "modalidade": "concorrencia",
+    "objeto": "da presente licitação: CONTRATAÇÃO DE EMPRESA PARA REFORMA DO MATADOURO PÚBLICO MUNICIPAL DA PREFEITURA MUNICIPAL ZÉ DOA -MA, conforme especificações constantes neste edital, no termo de referência, na planilha, cronograma, memorial descritivo e projeto.",
+    "orgao_responsavel": "PREFEITURA MUNICIPAL DE ZÉ DOCA",
+    "uf": "MA",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "360 dias"
+  },
+  "latencia_s": 0.0912,
+  "executor": "baseline_regex"
+}

@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "edital-agent"
+version = "0.1.0"
+description = "Agente autônomo baseado em RAG para extração estruturada de informações críticas de editais de licitação (PNCP/Compras.gov.br)"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Emanuel Abreu", email = "emanuelabreudev@gmail.com" }]
+dependencies = [
+    "httpx==0.28.1",
+    "pypdf==6.14.2",
+    "fastembed==0.8.0",
+    "faiss-cpu==1.14.3",
+    "anthropic==0.116.0",
+    "pydantic==2.13.4",
+    "numpy==2.5.1",
+    "PyYAML==6.0.3",
+    "tqdm==4.68.4",
+]
+
+[project.optional-dependencies]
+ocr = ["pytesseract==0.3.13", "pdf2image==1.17.0"]
+dev = ["pytest==9.1.1", "matplotlib==3.11.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

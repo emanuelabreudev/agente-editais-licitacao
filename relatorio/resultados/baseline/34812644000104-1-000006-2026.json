@@ -1,0 +1,15 @@
+{
+  "id_edital": "34812644000104-1-000006-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": 66000.0,
+    "modalidade": "pregao eletronico",
+    "objeto": "Contratação de empresa especializada para prestação de serviços continuados de manutenção, limpeza e conservação de jardim e de manutenção e tratamento de piscina, com fornecimento de mão de obra, equipamentos, ferramentas e todos os insumos necessários.",
+    "orgao_responsavel": null,
+    "uf": "RR",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "15 dias"
+  },
+  "latencia_s": 0.0227,
+  "executor": "baseline_regex"
+}

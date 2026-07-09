@@ -1,0 +1,250 @@
+{
+  "id_edital": "46374500000194-1-004195-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": "2026-06-17 08:00",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "concorrencia",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "46374500000194-1-004195-2026#c0198"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0067",
+      "secao": "5.8. O prazo de validade da proposta não será inferior a dias a contar da data de sua apresentação.60 (sessent",
+      "texto": "5.8. O prazo de validade da proposta não será inferior a dias a contar da data de sua apresentação.60 (sessenta) ,"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0095",
+      "secao": "6.20.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de , envie a proposta2 (duas) ",
+      "texto": "6.20.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de , envie a proposta2 (duas) horas\nadequada ao último lance ofertado após a negociação realizada, acompanhada, se for o caso, dedocumentos\ncomplementares, quando necessários à confirmação daqueles exigidos neste Edital e já apresentados."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0217",
+      "secao": "7. Critérios de medição e pagamento",
+      "texto": "art. 75 da Lei nº\n14.133, de 2021, o prazo máximo para o recebimento definitivo será de até 10 (dez) dias úteis.\n7.5. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada, por igual período, quando houver\nnecessidade de diligências para a aferição do atendimento das exigências contratuais.\n7.6. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, se houver parcela incontroversa,\ndeverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, com a comunicação ao Contratado para emissão de Nota Fiscal\n/Fatura no que pertine à parcela incontroversa, para efeito de liquidação e pagamento.\n7.7. O prazo para a solução, pelo Contratado, de inconsistências na execução do objeto ou de saneamento da nota fiscal ou de\ninstrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à liquidação de despesa, não será\ncomputado para os fins do recebimento definitivo.\n7.8. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança dos bens nem a\nresponsabilidade ético-profissional pela perfeita execução do contrato[ESP4] .\nLiquidação\n7.9. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de 10 (dez) dias úteis para fins de liquidação, a"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0030",
+      "secao": "3.1.1. Os interessados deverão atender às condições exigidas no cadastramento no Sicaf até o 3º (terceiro) dia",
+      "texto": "3.1.1. Os interessados deverão atender às condições exigidas no cadastramento no Sicaf até o 3º (terceiro) dia útil\nanterior à data prevista para recebimento das propostas."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0251",
+      "secao": "8. Estimativa do Valor da Contratação",
+      "texto": "8. Estimativa do Valor da Contratação\nTratamento sigiloso do orçamento desta contratação, de acordo com o inciso, VI, IN 40/2020, facultando-se sua publicidade na fase de\nnegociação."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0238",
+      "secao": "9. Estimativas do Valor da Contratação",
+      "texto": "9. Estimativas do Valor da Contratação\n[Conteúdo Sigiloso | Justificativa: ]O custo estimado da contratação possui caráter sigiloso e será tornado público apenas e imediatamente após o julgamento das propostas."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0239",
+      "secao": "10. Adequação orçamentária",
+      "texto": "10. Adequação orçamentária\n10.1 As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados no Orçamento do Estado.\n10.2 No presente exercício, a contratação será atendida pela seguinte dotação:\nGestão/Unidade: 00001/090183\nFonte de Recursos: 165910001\nPrograma de Trabalho: 090616 / 10303093061170000\nElemento de Despesa; 339030\nAno Interno: (Não se aplica)\nQuando a execução do contrato ultrapassar o presente exercício, a dotação relativa ao(s) exercício(s) financeiro(s) subsequente(s)10.3 \nserá indicada após aprovação da Lei Orçamentária respectiva e liberação dos créditos correspondentes, mediante apostilamento.\nSão Paulo, 06 de maio de 2025"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0198",
+      "secao": "2. Fundamentação da contratação",
+      "texto": "2. Fundamentação da contratação\n2.1 A fundamentação desta contratação e de seus quantitativos encontram-se pormenorizada em tópico específico do Estudo Técnico \nPreliminar, apêndice deste Termo de Referência.\n2.2 O objeto da contratação está previsto no Plano de Contratações Anual 2025, DFD n° 1878/2025 nos termos do Decreto estadual nº \n67.689, de 3 de maio de 2023, conforme consta das informações básicas deste Termo de Referência.\n2.3 Solicitamos aquisição desses itens em carater emergêncial, com o intuito de agilizar a aquisição dos mesmos, não comprometendo a \nrepartição pública e os pacientes com seus desabastecimentos."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0098",
+      "secao": "7. DA FASE DE JULGAMENTO",
+      "texto": "7. DA FASE DE JULGAMENTO\n7.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante provisoriamente classificado em primeiro lugar\natende às condições de participação no certame, conforme previsto no art. 14 da Lei nº 14.133, de 2021, na legislação\ncorrelata, e no item 3.6 desteEdital, especialmente quanto à existência de sanção que impeça a participação no certame ou\na futura contratação, mediante a consulta aos seguintes cadastros:"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0178",
+      "secao": "14.7. As normas disciplinadoras da licitação serão interpretadas em favor da ampliação da disputa entre os int",
+      "texto": "14.7. As normas disciplinadoras da licitação serão interpretadas em favor da ampliação da disputa entre os interessados,\ndesde que não comprometam o interesse público, o princípio da isonomia, a finalidade e a segurança da contratação."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0165",
+      "secao": "13.3.1. A concessão de efeito suspensivo à impugnação é medida excepcional, e, caso ocorra, será motivada nos ",
+      "texto": "13.3.1. A concessão de efeito suspensivo à impugnação é medida excepcional, e, caso ocorra, será motivada nos autos\ndo processo de licitação."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0172",
+      "secao": "14.1. Exaurida a fase recursal, será observado o disposto no art. 71 da Lei nº 14.133, de 2021.",
+      "texto": "14.1. Exaurida a fase recursal, será observado o disposto no art. 71 da Lei nº 14.133, de 2021.\n14.1.1. Constatada a regularidade dos atos praticados, a autoridade superior adjudicará o objeto da licitação ao licitante\nvencedor e homologará o procedimento licitatório.\nA disciplina da formalização da contratação observará o disposto nas subdivisões deste item 14.2.14.2. \nO adjudicatário terá o prazo de 02 (dois) dias, contados a partir da data de sua convocação, para comparecer14.2.1. \nperante a Unidade Contratante para a retirada da nota de empenho ou, alternativamente, solicitar o seu envio por meio\neletrônico, sob pena de decadência do direito, sem prejuízo das sanções previstas na Lei nº 14.133, de 2021.\n14.2.1.1. O prazo para formalização da contratação previsto na subdivisão anterior poderá ser prorrogado por igual\nperíodo, por solicitação justificada do adjudicatário e aceita pela Administração;\n14.2.1.2. O não comparecimento do fornecedor para retirar a nota de empenho ou, quando solicitado o seu envio por\nmeio eletrônico, a ausência de envio de confirmação de recebimento dentro do prazo previsto na subdivisão anterior\nimportará na recusa à contratação, sujeita à aplicação das sanções cabíveis.\n14.2.1.3. A retirada da Nota de Empenho ou, quando solicitado o seu envio por meio eletrônico, o envio de"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0026",
+      "secao": "1. DO OBJETO",
+      "texto": "1. DO OBJETO\nO objeto da presente licitação é  conforme Aquisição de Medicamentos de Óleo de Papoula a Vimblastina, \ncondições, quantidades e exigências estabelecidas neste Edital e seus Anexos.\nA licitação será dividida em itens, conforme definido no Termo de Referência, facultando-se ao licitante a\nparticipação em quantos itens forem de seu interesse."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0196",
+      "secao": "1. Definição do objeto",
+      "texto": "1. Definição do objeto\n1.1 Os itens a serem licitados neste processo foram objeto de pregões eletrônicos anteriores números:       PE\n90021/2026 e PE 90046/2026 , que resultaram fracassado e deserto, cujo edital previa participação exclusiva de\nmicroempresas (ME) e empresas de pequeno porte (EPP).\nDevido aos certames anteriores não terem obtido êxito conforme exposto acima, para o novo processo\nlicitatório a ser instaurado, solicitamos que seja realizado através da ampla concorrência.\n1.2 Aquisição de Medicamentos - Deserto/fracassado - Óleo de Papoula a Vimblastina-   PCA 98/2026  nos\ntermos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.\n1.2.1 Em caso de eventual divergência entre a descrição do item do catálogo do sistema Compras.gov.br e as disposições deste\nTermo de Referência, prevalecem as disposições deste Termo de Referência.\n1.2.2 Este Termo de Referência foi elaborado em conformidade com o Decreto estadual nº 68.185, de 11 de dezembro de 2023\n1.3 Os bens objeto desta contratação são caracterizados como Bens de Natureza Comum, conforme justificativa constante do Estudo\nTécnico Preliminar.\n1.4 O objeto desta contratação não se enquadra como bem de luxo, observando o disposto no artigo 20 da Lei nº 14.133, de 2021 e no\nDecreto estadual nº 67.985, de 2023."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0119",
+      "secao": "8. DA FASE DE HABILITAÇÃO",
+      "texto": "8. DA FASE DE HABILITAÇÃO\n8.1. Os documentos que serão exigidos para fins de habilitação estão especificados no Anexo I deste Edital, consistindo na\ndocumentação necessária e suficiente para demonstrar a capacidade do licitante de realizar o objeto da licitação, nos\ntermos dos arts. 62 a 70 da Lei nº 14.133, de 2021.\n8.1.1. A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-nanceira poderá\nser substituída pelo registro cadastral no Sicaf.\n \n8.1.2. Se o licitante for a matriz, todos os documentos deverão estar em nome da matriz, e se o licitante for a filial, todos\nos documentos deverão estar em nome da filial, exceto para atestados de capacidade técnica, caso exigidos, e no caso\ndaqueles documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz.\n\n[página 12]\n12 de 19"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0136",
+      "secao": "11. DOS RECURSOS",
+      "texto": "11. DOS RECURSOS\n11.1. A interposição de recurso referente ao julgamento das propostas, à habilitação ou inabilitação de licitantes, à anulação\nou revogação da licitação, observará o disposto no art. 165 da .Lei nº 14.133, de 2021"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0077",
+      "secao": "6.7. O licitante somente poderá oferecer lance de percentual de desconto superior (conforme o critério de julg",
+      "texto": "6.7. O licitante somente poderá oferecer lance de percentual de desconto superior (conforme o critério de julgamento\nao último por ele ofertado e registrado pelo sistema.definido no início deste Edital)"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0009",
+      "secao": "DATA DA SESSÃO PÚBLICA",
+      "texto": "DATA DA SESSÃO PÚBLICA\nDia 17/06/2026  08:00h(horário de Brasília)\n \n \nCritério de Julgamento:\nmenor preço\n \n \nModo de disputa:\nAberto"
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0091",
+      "secao": "6.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese de a proposta do primeiro colocado p",
+      "texto": "6.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese de a proposta do primeiro colocado permanecer \n definido para ainferior ao desconto mínimo (conforme o critério de julgamento estabelecido no início deste Edital)\ncontratação, o pregoeiro poderá negociar condições mais vantajosas, após definido o resultado do julgamento."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0252",
+      "secao": "9. Justificativa para o Parcelamento ou não da Solução",
+      "texto": "9. Justificativa para o Parcelamento ou não da Solução\nO critério de julgamento da pretendida contratação é Menor Preço por item.\nPara o presente objeto, a entrega será integral para cada item solicitado."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0210",
+      "secao": "6.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será pror",
+      "texto": "6.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será prorrogado\nautomaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.\n6.3. As comunicações entre o Contratante e o Contratado devem ser realizadas por escrito sempre que o ato exigir tal formalidade,\nadmitindo-se o uso de mensagem eletrônica para esse fim.\n6.4. O Contratante poderá convocar representante do Contratado para adoção de providências que devam ser cumpridas de imediato.\n6.5. Após a celebração da contratação, o Contratante poderá convocar o representante do Contratado para reunião inicial para\napresentação do plano de fiscalização, que conterá informações acerca das obrigações contratuais, dos mecanismos de fiscalização, das\nestratégias para execução do objeto, do plano complementar de execução do Contratado, quando houver, do método de aferição dos\nresultados e das sanções aplicáveis, dentre outros.\n \nFiscalização\n\n[página 23]\nCâmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União\nModelo de Aquisições — Atualização: maio/2023\nAprovado pela Secretaria de Gestão e Inovação\n4 de 9\n6.6. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelo(s) respectivo(s) substituto(s) (Lei\nnº 14.133, de 2021, art. 117, caput).\nFiscalização Técnica\n6.7."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0212",
+      "secao": "6.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será pror",
+      "texto": "festando-se quanto à necessidade de suspensão da\nexecução do objeto (Decreto estadual nº 68.220, de 2023, art. 17, IV).\n6.7.4. O fiscal técnico do contrato informará ao gestor do contrato, em tempo hábil, a situação que demandar decisão ou adoção de\nmedidas que ultrapassem sua competência, para que adote as medidas necessárias e saneadoras, se for o caso (Lei federal nº\n14.133, de 2021, artigo 117, § 2º).\n6.7.5. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal técnico do contrato\ncomunicará o fato imediatamente ao gestor do contrato (Decreto estadual nº 68.220, de 2023, art. 17, II).\nFiscalização Administrativa\n6.8. O fiscal administrativo do contrato verificará a manutenção das condições de habilitação do Contratado, acompanhará o empenho, o\npagamento, as garantias, as glosas e a formalização de apostilamento e termos aditivos, solicitando quaisquer documentos\ncomprobatórios pertinentes, caso necessário (Decreto estadual nº 68.220, de 2023, art. 18, II e III).\n6.8.1. Caso ocorra descumprimento das obrigações contratuais, o fiscal administrativo do contrato atuará tempestivamente na solução\ndo problema, reportando ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua competência\n(Decreto estadual nº 68.220, de 2023, art. 18, IV).\n6.8.2."
+    },
+    {
+      "chunk_id": "46374500000194-1-004195-2026#c0209",
+      "secao": "6. Modelo de gestão do contrato",
+      "texto": "6. Modelo de gestão do contrato\n6.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº 14.133, de\n2021, e cada parte responderá pelas consequências de sua inexecução total ou parcial."
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 5126,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.068,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

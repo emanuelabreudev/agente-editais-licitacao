@@ -1,0 +1,44 @@
+# Configuração central do pipeline.
+# Qualquer chave pode ser sobrescrita por variável de ambiente EDITAL_AGENT_<SECAO>_<CHAVE>
+# (ex.: EDITAL_AGENT_LLM_MODELO=claude-haiku-4-5).
+
+coleta:
+  # Janela de coleta (snapshot estático do benchmark piloto)
+  data_inicial: "20260601"
+  data_final: "20260615"
+  # Modalidades (Lei 14.133/2021): 6=Pregão Eletrônico, 4=Concorrência Eletrônica,
+  # 8=Dispensa, 9=Inexigibilidade
+  modalidades: [6, 4, 8, 9]
+  # Benchmark incremental: começa com 10, expande até 20 conforme
+  # estabilização do desvio padrão das métricas (objetivo específico 2)
+  n_editais: 16
+  max_por_modalidade: 6
+  max_por_uf: 3            # diversidade geográfica
+  timeout_s: 60
+  max_paginas_pdf: 150     # evita anexos gigantes no piloto
+
+extracao:
+  min_chars_por_pagina: 200   # abaixo disso, página é candidata a OCR
+  ocr_dpi: 200
+
+indexacao:
+  modelo_embedding: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  tamanho_chunk: 1400         # caracteres
+  overlap: 250                # caracteres
+  top_k_padrao: 5
+
+llm:
+  modelo: "claude-opus-4-8"
+  modelo_juiz: "claude-opus-4-8"
+  max_tokens: 4096
+  max_iteracoes_agente: 12
+  temperatura_nota: "modelos Claude 4.7+ não aceitam temperature; determinismo via prompt"
+
+avaliacao:
+  # Limiares da pergunta de pesquisa
+  meta_faithfulness: 0.85
+  meta_answer_correctness: 0.80
+  meta_taxa_alucinacao: 0.10
+  meta_precisao_baseline: 0.80
+  tolerancia_valor_pct: 0.5      # % de diferença tolerada em valores monetários
+  bootstrap_amostras: 2000

@@ -1,0 +1,15 @@
+{
+  "id_edital": "46374500000194-1-004195-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-17 08:00",
+    "valor_estimado": null,
+    "modalidade": "pregao eletronico",
+    "objeto": null,
+    "orgao_responsavel": "INSTITUTO DE INFECTOLOGIA",
+    "uf": "SP",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "10 dias"
+  },
+  "latencia_s": 0.0352,
+  "executor": "baseline_regex"
+}

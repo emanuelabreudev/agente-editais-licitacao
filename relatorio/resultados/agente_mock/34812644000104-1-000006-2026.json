@@ -1,0 +1,252 @@
+{
+  "id_edital": "34812644000104-1-000006-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": 66000.0,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "modalidade": {
+      "valor": "pregao eletronico",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": "RR",
+      "chunks_evidencia": [
+        "34812644000104-1-000006-2026#c0114"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "34812644000104-1-000006-2026#c0064"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0120",
+      "secao": "8.41.2. Prazo de validade da proposta não inferior a 60 (sessenta) dias, contados da data",
+      "texto": "8.41.2. Prazo de validade da proposta não inferior a 60 (sessenta) dias, contados da data \nde entrega da proposta;"
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0062",
+      "secao": "7.9. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de",
+      "texto": "7.9. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de \nsua apresentação."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0114",
+      "secao": "8.37. O pregoeiro solicitará ao licitante mais bem classificado que envie a proposta adequada",
+      "texto": "8.37. O pregoeiro solicitará ao licitante mais bem classificado que envie a proposta adequada \nao último lance ofertado no prazo de até 2 (duas) horas, prorrogável mediante justificativa."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0002",
+      "secao": "PROCESSO CRO-RR - SEF0001/2026",
+      "texto": "- O local, a data e o horário de realização da sessão pública serão \ndivulgados posteriormente por meio de aviso simplificado, a ser publicado no Portal Nacional \nde Contratações Públicas – PNCP e no sis tema eletrônico de compras utilizado para a \nrealização do certame, observando -se o prazo mínimo legal entre a publicação do aviso e a \nabertura da sessão. \nParágrafo Segundo - O prazo mínimo entre a publicação do aviso de licitação e a data de \nabertura da sessão pública será de 8 (oito) dias úteis, conforme disposto no art. 55, inciso I, \nda Lei nº 14.133/2021."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0254",
+      "secao": "10.2. Nos termos do art. 10 do Decreto nº 8.538/2015, verificou -se que o valor estimado da",
+      "texto": "10.2. Nos termos do art. 10 do Decreto nº 8.538/2015, verificou -se que o valor estimado da \npresente contratação é de R$ 66.000,00 (sessenta e seis mil reais), não ultrapassando o limite \nde R$ 80.000,00 (oitenta mil reais)."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0249",
+      "secao": "9.1. O valor total estimado para a contratação dos objetos/serviços descritos neste Termo de",
+      "texto": "9.1. O valor total estimado para a contratação dos objetos/serviços descritos neste Termo de \nReferência, para o prazo de 12 (doze) meses a contar da assinatura do contrato, será de R$ \n66.000,00 (sessenta e seis mil reais), conforme pesquisa de preços realizada no dia 12 de \nmarço de 2026; sendo este o valor máximo estimado que o CRO-RR se disponibiliza a pagar \npara contratação do objeto."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0282",
+      "secao": "12.3.4. Caso os índices sejam inferiores ou iguais a 1 (um), exigir patrimônio líquido",
+      "texto": "12.3.4. Caso os índices sejam inferiores ou iguais a 1 (um), exigir patrimônio líquido \nmínimo de 1% do valor estimado da contratação;"
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0248",
+      "secao": "9. DOS CUSTOS ESTIMADOS PARA CONTRATAÇÃO",
+      "texto": "9. DOS CUSTOS ESTIMADOS PARA CONTRATAÇÃO"
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0109",
+      "secao": "8.32. Esgotados todos os demais critérios de desempate previstos em lei, a escolha do licitante",
+      "texto": "8.32. Esgotados todos os demais critérios de desempate previstos em lei, a escolha do licitante \nvencedor ocorrerá por sorteio, em ato público, para o qual o s licita ntes serão convocados, \nvedado qualquer outro processo."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0084",
+      "secao": "8.12. Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”,",
+      "texto": "8.12. Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa “aberto”, \nos licitantes apresentarão lances públicos e sucessivos, com prorrogações."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0094",
+      "secao": "8.22. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.",
+      "texto": "8.22. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0111",
+      "secao": "8.34. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação",
+      "texto": "8.34. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação \ninicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for \ndesclassificado em razão de sua proposta permanecer acima do preço máximo definido pela \nAdministração."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0155",
+      "secao": "14.2. O objeto será adjudicado ao licitante vencedor pelo pregoeiro.",
+      "texto": "14.2. O objeto será adjudicado ao licitante vencedor pelo pregoeiro."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0088",
+      "secao": "8.16. Após o reinício previsto no item supra, os licitantes se rão convocados para apresentar",
+      "texto": "8.16. Após o reinício previsto no item supra, os licitantes se rão convocados para apresentar \nlances intermediários."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0360",
+      "secao": "25.2. A licitação observará, em todas as suas fases, os princípios da legalidade, publicidade,",
+      "texto": "25.2. A licitação observará, em todas as suas fases, os princípios da legalidade, publicidade, \ntransparência, impessoalidade, moralidade e eficiência, bem como as disposições da legislação \nvigente."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0064",
+      "secao": "7.11. Caso o critério de julgamento seja o de menor preço, os licitantes devem respeitar os",
+      "texto": "7.11. Caso o critério de julgamento seja o de menor preço, os licitantes devem respeitar os \npreços máximos previstos no Termo de Referência."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0032",
+      "secao": "5.6.4. Valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o",
+      "texto": "5.6.4. Valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o \ncritério de julgamento por menor preço;"
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0224",
+      "secao": "4.3. O critério de julgamento será o de menor preço global, considerando a natureza integrada",
+      "texto": "4.3. O critério de julgamento será o de menor preço global, considerando a natureza integrada \ndos serviços de jardinagem e manutenção de piscina, cuja execução por um único contratado \nfavorece a padronização, otimização logística e redução de custos administrativos."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0133",
+      "secao": "9.1. O critério de julgamento adotado será o menor preço global , conforme definido neste",
+      "texto": "9.1. O critério de julgamento adotado será o menor preço global , conforme definido neste \nEdital e seus anexos."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0449",
+      "secao": "13.1. O presente contrato terá vigência de 12 (doze) meses, contados da data de sua assinatura,",
+      "texto": "13.1. O presente contrato terá vigência de 12 (doze) meses, contados da data de sua assinatura, \npodendo ser prorrogado sucessivamente, mediante termo aditivo, até o limite previsto no art. \n107 da Lei nº 14.133/2021, desde que demonstrada a vantajosidade para a Administração."
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0158",
+      "secao": "15.1. O contrato terá vigência inicial de 12 (doze) meses, poderá ser prorrogado",
+      "texto": "15.1. O contrato terá vigência inicial de 12 (doze) meses, poderá ser prorrogado \nsucessivamente, observados os limites e condições previstos no art. 107 da Lei nº 14.133/2021, \ndesde que demonstrada a vantajosidade.\n\n[página 10]\nRua da Ingazeira, 133 - Caçari – CEP 69307-430– Boa Vista / RR – Contato: (095) 99124-9222 \nSite: www.crorr.org.br | E-mail: licitacao@crorr.org.br"
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0175",
+      "secao": "19.3.1. Ensejar o retardamento da execução do objeto do contrato;",
+      "texto": "19.3.1. Ensejar o retardamento da execução do objeto do contrato;"
+    },
+    {
+      "chunk_id": "34812644000104-1-000006-2026#c0328",
+      "secao": "21.2.1. Ensejar o retardamento da execução do objeto do contrato;",
+      "texto": "21.2.1. Ensejar o retardamento da execução do objeto do contrato;"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 2889,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.06,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

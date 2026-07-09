@@ -1,0 +1,159 @@
+{
+  "id_edital": "02304470000174-1-000068-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "concorrencia",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO RELAÇÃO DE ITENS - CONCORRÊNCIA N",
+      "chunks_evidencia": [
+        "02304470000174-1-000068-2026#c0002"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "uf": {
+      "valor": "ES",
+      "chunks_evidencia": [
+        "02304470000174-1-000068-2026#c0002"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "02304470000174-1-000068-2026#c0004"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "02304470000174-1-000068-2026#c0002",
+      "secao": "926629 - MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+      "texto": "926629 - MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO\nRELAÇÃO DE ITENS - CONCORRÊNCIA Nº 90001/2026-000"
+    },
+    {
+      "chunk_id": "02304470000174-1-000068-2026#c0004",
+      "secao": "1 - Elaboração / Análise Projeto - Engenharia",
+      "texto": "1 - Elaboração / Análise Projeto - Engenharia\nDescrição Detalhada: Contratação de empresa especializada para a elaboração de projetos de arquitetura e complementares de engenharia, em\nmetodologia BIM, destinados à construção da nova sede da Promotoria de Justiça de Viana, conforme especificações e\nquantitativos constantes no Projeto Básico, ANEXO I do edital.\nTratamento Diferenciado: Não\nAplicabilidade Decreto 7174/2010: Não\nQuantidade Total: 1\nCritério de Julgamento: Menor Preço Critério de Valor: Valor Estimado\nValor Total (R$): 389.970,92\nUnidade de Fornecimento: UNIDADE\nIntervalo Mínimo entre Lances (R$): 10,00\nLocal de Entrega (Quantidade): Vila Velha/ES (1)\nCONCORRÊNCIA Nº 90001/2026-000 UASG 926629 (1/1)27/05/2026 12:06"
+    },
+    {
+      "chunk_id": "02304470000174-1-000068-2026#c0001",
+      "secao": "95223 - MINISTERIO PÚBLICO DO ESPÍRITO SANTO",
+      "texto": "95223 - MINISTERIO PÚBLICO DO ESPÍRITO SANTO"
+    },
+    {
+      "chunk_id": "02304470000174-1-000068-2026#c0003",
+      "secao": "1 - Itens da Licitação",
+      "texto": "1 - Itens da Licitação"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 2856,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.06,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

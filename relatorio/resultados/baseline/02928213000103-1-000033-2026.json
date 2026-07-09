@@ -1,0 +1,15 @@
+{
+  "id_edital": "02928213000103-1-000033-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": null,
+    "modalidade": "dispensa",
+    "objeto": null,
+    "orgao_responsavel": "ESTADO DE GOIAS CAMARA MUNICIPAL DE ADELANDIA CERTIDÃO DE PUB",
+    "uf": "GO",
+    "criterio_julgamento": null,
+    "prazo_execucao": null
+  },
+  "latencia_s": 0.0003,
+  "executor": "baseline_regex"
+}

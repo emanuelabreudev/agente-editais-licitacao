@@ -1,0 +1,15 @@
+{
+  "id_edital": "56024581000156-1-000199-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": null,
+    "modalidade": "concorrencia",
+    "objeto": null,
+    "orgao_responsavel": "PREFEITURA DE RIBEIRÃO PRETO",
+    "uf": "SP",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": null
+  },
+  "latencia_s": 0.0004,
+  "executor": "baseline_regex"
+}

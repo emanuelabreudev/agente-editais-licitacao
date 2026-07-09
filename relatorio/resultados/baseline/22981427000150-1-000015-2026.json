@@ -1,0 +1,15 @@
+{
+  "id_edital": "22981427000150-1-000015-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-01",
+    "valor_estimado": 1311263.9,
+    "modalidade": "concorrencia",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE URBANIZAÇÃO E DRENAGEM DE ÁREAS EM FRENTE A BR-230 NA VILA ARATAÚ NO MUNICÍPIO DE PACAJÁ/PA.",
+    "orgao_responsavel": "PREFEITURA MUNICIPAL DE PACAJÁ CNPJ",
+    "uf": "PA",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "5 meses"
+  },
+  "latencia_s": 0.0696,
+  "executor": "baseline_regex"
+}

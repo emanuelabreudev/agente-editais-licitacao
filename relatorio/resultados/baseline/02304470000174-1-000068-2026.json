@@ -1,0 +1,15 @@
+{
+  "id_edital": "02304470000174-1-000068-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": null,
+    "modalidade": "concorrencia",
+    "objeto": null,
+    "orgao_responsavel": "MINISTERIO PÚBLICO DO ESPÍRITO SANTO",
+    "uf": "ES",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": null
+  },
+  "latencia_s": 0.0005,
+  "executor": "baseline_regex"
+}

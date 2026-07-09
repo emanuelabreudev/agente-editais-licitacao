@@ -1,0 +1,15 @@
+{
+  "id_edital": "22981427000150-1-000016-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-01",
+    "valor_estimado": 1995550.75,
+    "modalidade": "concorrencia",
+    "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA PRESTAÇÃO DE SERVIÇOS DE DRENAGEM NO BAIRRO ALTO BONITO NO MUNICÍPIO DE PACAJÁ/PA.",
+    "orgao_responsavel": "PREFEITURA MUNICIPAL DE PACAJÁ CNPJ",
+    "uf": "PA",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "8 meses"
+  },
+  "latencia_s": 0.0513,
+  "executor": "baseline_regex"
+}

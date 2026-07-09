@@ -1,0 +1,15 @@
+{
+  "id_edital": "88861448000140-1-000291-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-16 09:00",
+    "valor_estimado": null,
+    "modalidade": "pregao eletronico",
+    "objeto": "o Registro de Preços para futura e eventual contratação de empresa especializada para o fornecimento parcelado de filtros automotivos, óleos lubrificantes, fluidos, líquidos de freio, aditivos para radiadores, graxas, desengripantes, desengraxantes e produtos correlatos , destinados à manutenção preventiva e corretiva da frota de veículos, máquinas, equipamentos e implementos pertencentes às diver",
+    "orgao_responsavel": "MUNICÍPIO DE PIRATINI",
+    "uf": "RS",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": null
+  },
+  "latencia_s": 0.021,
+  "executor": "baseline_regex"
+}

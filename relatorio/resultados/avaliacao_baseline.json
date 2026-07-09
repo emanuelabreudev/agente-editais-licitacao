@@ -1,0 +1,322 @@
+{
+  "resumo": {
+    "n_editais": 16,
+    "acuracia_criticos": {
+      "media": 0.5520833333333333,
+      "desvio_padrao": 0.1897244590725465,
+      "ic95_bootstrap": [
+        0.46875,
+        0.6458333333333333
+      ],
+      "n_validos": 16
+    },
+    "acuracia_criticos_disponiveis": {
+      "media": 0.8333333333333333,
+      "desvio_padrao": 0.29814239699997197,
+      "ic95_bootstrap": [
+        0.6875,
+        0.9583333333333333
+      ],
+      "n_validos": 16
+    },
+    "latencia_s": {
+      "media": 0.027962499999999998,
+      "desvio_padrao": 0.027557113419224444,
+      "ic95_bootstrap": [
+        0.014980625,
+        0.04197765624999998
+      ],
+      "n_validos": 16
+    },
+    "acuracia_por_campo": {
+      "prazo_entrega_proposta": {
+        "acuracia": 0.2857142857142857,
+        "n_avaliados": 14
+      },
+      "valor_estimado": {
+        "acuracia": 0.2857142857142857,
+        "n_avaliados": 14
+      },
+      "modalidade": {
+        "acuracia": 1.0,
+        "n_avaliados": 16
+      },
+      "objeto": {
+        "acuracia": 0.5,
+        "n_avaliados": 16
+      },
+      "orgao_responsavel": {
+        "acuracia": 0.6875,
+        "n_avaliados": 16
+      },
+      "uf": {
+        "acuracia": 0.875,
+        "n_avaliados": 16
+      },
+      "criterio_julgamento": {
+        "acuracia": 0.8125,
+        "n_avaliados": 16
+      }
+    },
+    "alvo": "baseline",
+    "juiz": null
+  },
+  "por_edital": [
+    {
+      "id_edital": "01519467000105-1-000040-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 6,
+      "latencia_s": 0.0169
+    },
+    {
+      "id_edital": "01519467000105-1-000041-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 8,
+      "latencia_s": 0.0225
+    },
+    {
+      "id_edital": "02304470000174-1-000068-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 4,
+      "latencia_s": 0.0005
+    },
+    {
+      "id_edital": "02928213000103-1-000033-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": null,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": false
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 3,
+      "latencia_s": 0.0003
+    },
+    {
+      "id_edital": "02928213000103-1-000034-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": null,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": false
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 3,
+      "latencia_s": 0.0003
+    },
+    {
+      "id_edital": "12122065000199-1-000067-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.3333333333333333,
+      "campos_preenchidos": 6,
+      "latencia_s": 0.0912
+    },
+    {
+      "id_edital": "22981427000150-1-000015-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 0.6666666666666666,
+      "campos_preenchidos": 8,
+      "latencia_s": 0.0696
+    },
+    {
+      "id_edital": "22981427000150-1-000016-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 0.6666666666666666,
+      "campos_preenchidos": 8,
+      "latencia_s": 0.0513
+    },
+    {
+      "id_edital": "22981427000150-1-000017-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 0.6666666666666666,
+      "campos_preenchidos": 8,
+      "latencia_s": 0.064
+    },
+    {
+      "id_edital": "34812644000104-1-000006-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": false,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 6,
+      "latencia_s": 0.0227
+    },
+    {
+      "id_edital": "46374500000194-1-004194-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": null,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": false
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 1,
+      "latencia_s": 0.0159
+    },
+    {
+      "id_edital": "46374500000194-1-004195-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": null,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 1.0,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 6,
+      "latencia_s": 0.0352
+    },
+    {
+      "id_edital": "56024581000156-1-000199-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 4,
+      "latencia_s": 0.0004
+    },
+    {
+      "id_edital": "88201298000149-1-000679-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 7,
+      "latencia_s": 0.0261
+    },
+    {
+      "id_edital": "88243688000181-1-000049-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.0,
+      "campos_preenchidos": 6,
+      "latencia_s": 0.0095
+    },
+    {
+      "id_edital": "88861448000140-1-000291-2026",
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 1.0,
+      "campos_preenchidos": 6,
+      "latencia_s": 0.021
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "88201298000149-1-000679-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/88201298000149/compras/2026/679/arquivos/1",
+    "bytes": 254302,
+    "sha256": "7e1924a4db7a1d72e566a0c14b288d34c24f2c56b515723e5104d145f5063971",
+    "content_type": "application/octet-stream",
+    "titulo": "Edital-e-anexos-Proc-039.2026---PE-017.2026",
+    "tipo_documento": "Edital",
+    "arquivo_local": "88201298000149-1-000679-2026.bin"
+  },
+  "88861448000140-1-000291-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/88861448000140/compras/2026/291/arquivos/1",
+    "bytes": 265520,
+    "sha256": "99ead5f989a58f154ef3b191f0a174e080d3fabf81a26e2d404f45efabb5f120",
+    "content_type": "application/octet-stream",
+    "titulo": "edital_30_OK.pdf",
+    "tipo_documento": "Edital",
+    "arquivo_local": "88861448000140-1-000291-2026.bin"
+  },
+  "88243688000181-1-000049-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/88243688000181/compras/2026/49/arquivos/1",
+    "bytes": 466174,
+    "sha256": "c9e9bf837c2ed02b91e7e0445a34ebcb7dc6c4516da291ae204a3cfc58038445",
+    "content_type": "application/octet-stream",
+    "titulo": "Anexo-do-Edital---Termo-de-Referencia",
+    "tipo_documento": "Edital",
+    "arquivo_local": "88243688000181-1-000049-2026.bin"
+  },
+  "34812644000104-1-000006-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/34812644000104/compras/2026/6/arquivos/1",
+    "bytes": 855524,
+    "sha256": "3deb7b5be041f03d8b1033c744a218c0e3d8e365d87fcb358cc5c175e506bd9c",
+    "content_type": "application/octet-stream",
+    "titulo": "38924005900012026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "34812644000104-1-000006-2026.bin"
+  },
+  "46374500000194-1-004194-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46374500000194/compras/2026/4194/arquivos/1",
+    "bytes": 11787436,
+    "sha256": "7ad36b5a84b5fa6145274a694f5aaac376e00bb312c45b7f833924c433cb72bf",
+    "content_type": "application/octet-stream",
+    "titulo": "09018305901542026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "46374500000194-1-004194-2026.bin"
+  },
+  "46374500000194-1-004195-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46374500000194/compras/2026/4195/arquivos/2",
+    "bytes": 763400,
+    "sha256": "87d34424c998daf016f3179c0c00f2787e6cb0681501e43987781c36522b4dc5",
+    "content_type": "application/octet-stream",
+    "titulo": "09018305901672026001",
+    "tipo_documento": "Edital",
+    "arquivo_local": "46374500000194-1-004195-2026.bin"
+  },
+  "12122065000199-1-000067-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/12122065000199/compras/2026/67/arquivos/1",
+    "bytes": 8917800,
+    "sha256": "48dd318ecc5ee43836dc317f23024a0f5f1a81752542bcf434cf1b7480e25582",
+    "content_type": "application/octet-stream",
+    "titulo": "187939_editais_1780290509.zip",
+    "tipo_documento": "Edital",
+    "arquivo_local": "12122065000199-1-000067-2026.bin"
+  },
+  "56024581000156-1-000199-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/56024581000156/compras/2026/199/arquivos/1",
+    "bytes": 11524468,
+    "sha256": "33769879893489e2af6b98be89d3bc5b2d312d90088d61ff6b3eec3e28fc28ca",
+    "content_type": "application/octet-stream",
+    "titulo": "98696903900052026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "56024581000156-1-000199-2026.bin"
+  },
+  "02304470000174-1-000068-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/02304470000174/compras/2026/68/arquivos/1",
+    "bytes": 24029481,
+    "sha256": "b4d55927614565b1fa8edceab07a7ce36c9d7deccd0bfc1bbfe348c2649acdab",
+    "content_type": "application/octet-stream",
+    "titulo": "92662903900012026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "02304470000174-1-000068-2026.bin"
+  },
+  "22981427000150-1-000015-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/22981427000150/compras/2026/15/arquivos/1",
+    "bytes": 2357326,
+    "sha256": "54ab4264dec6d947ce399e7ef789bc68266a9d636c086b44ecc4ff87c1136789",
+    "content_type": "application/octet-stream",
+    "titulo": "98059303900032026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "22981427000150-1-000015-2026.bin"
+  },
+  "22981427000150-1-000016-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/22981427000150/compras/2026/16/arquivos/1",
+    "bytes": 1731657,
+    "sha256": "41a8f5bd26972c36555ab24c1efc0fa6aa7ff0fe5c795b707868015cdca9c418",
+    "content_type": "application/octet-stream",
+    "titulo": "98059303900042026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "22981427000150-1-000016-2026.bin"
+  },
+  "22981427000150-1-000017-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/22981427000150/compras/2026/17/arquivos/1",
+    "bytes": 2911117,
+    "sha256": "6df5c9335f5e26753096f10d3625f947588596dba05ed5b23bd0221fb27ccc39",
+    "content_type": "application/octet-stream",
+    "titulo": "98059303900062026000",
+    "tipo_documento": "Edital",
+    "arquivo_local": "22981427000150-1-000017-2026.bin"
+  },
+  "02928213000103-1-000033-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/02928213000103/compras/2026/33/arquivos/1",
+    "bytes": 156129,
+    "sha256": "0b29a7328e99faf319836897255e0e6de1b1f537273bc5e141d63beed281c7a4",
+    "content_type": "application/octet-stream",
+    "titulo": "Certidão de Publicação 609",
+    "tipo_documento": "Aviso de Contratação Direta",
+    "arquivo_local": "02928213000103-1-000033-2026.bin"
+  },
+  "02928213000103-1-000034-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/02928213000103/compras/2026/34/arquivos/1",
+    "bytes": 156102,
+    "sha256": "108646dfd41060f572e8ad8f5853dba1bd7e10664a063394ece45089f7fe4d89",
+    "content_type": "application/octet-stream",
+    "titulo": "Certidão de Publicação 610",
+    "tipo_documento": "Aviso de Contratação Direta",
+    "arquivo_local": "02928213000103-1-000034-2026.bin"
+  },
+  "01519467000105-1-000040-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/01519467000105/compras/2026/40/arquivos/1",
+    "bytes": 609938,
+    "sha256": "6cdb15c5971af986f5f6577ffe1b9a12b288c919908596ddf5beda75e90c1014",
+    "content_type": "application/octet-stream",
+    "titulo": "DL_007__Servicos_de_Ornamentacao_edital",
+    "tipo_documento": "Edital",
+    "arquivo_local": "01519467000105-1-000040-2026.bin"
+  },
+  "01519467000105-1-000041-2026": {
+    "url": "https://pncp.gov.br/pncp-api/v1/orgaos/01519467000105/compras/2026/41/arquivos/1",
+    "bytes": 722037,
+    "sha256": "8e490d3acbdb64c68cb24a9e04e9c594c75a6a0fc4f7a9afbc2f9debb6b1e0ca",
+    "content_type": "application/octet-stream",
+    "titulo": "DL_008__Preparacao_Festejos",
+    "tipo_documento": "Edital",
+    "arquivo_local": "01519467000105-1-000041-2026.bin"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id_edital": "22981427000150-1-000017-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": "2026-06-01",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "valor_estimado": {
+      "valor": 732364.85,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "modalidade": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "22981427000150-1-000017-2026#c0062"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": "12 meses",
+      "chunks_evidencia": [
+        "22981427000150-1-000017-2026#c0381"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0080",
+      "secao": "4.9. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua",
+      "texto": "4.9. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua \napresentação."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0005",
+      "secao": "RELAÇÃO DAS OBRAS E SERVIÇOS",
+      "texto": "RELAÇÃO DAS OBRAS E SERVIÇOS \n \na) DATA DA SESSÃO / ABERTURA DAS PROPOSTAS: 26/06/2026 às 09h00min; \nb) Início de recebimento das Propostas a partir das 08h59min do dia 01/06/2026; \nc) Impugnações e Esclarecimentos até às 08h59min do dia 23/06/2026; \nd) Data final de recebimento das Propostas até às 08h59min do dia 26/06/2026; \ne) Local/Plataforma: www.gov.br/compras \nf) Unidade Administrativa do Governo Federal (UASG):980593"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0049",
+      "secao": "3.3. Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os licitantes",
+      "texto": "3.3. Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os licitantes \nencaminharão, na forma e no prazo estabelecidos no item anterior, simultaneamente os documentos de \nhabilitação e a proposta com o preço, observado as disposições deste Edital."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0023",
+      "secao": "2.1.1. Os interessados deverão atender às condições exigidas no cadastramento no SICAF até o terceiro",
+      "texto": "2.1.1. Os interessados deverão atender às condições exigidas no cadastramento no SICAF até o terceiro \ndia útil anterior à data prevista para recebimento das propostas."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0381",
+      "secao": "12.1. O custo estimado total da contratação é de R$ 732.364,85 (setecentos e trinta e dois mil",
+      "texto": "12.1. O custo estimado total da contratação é de R$ 732.364,85 (setecentos e trinta e dois mil \ntrezentos e sessenta e quatro reais e oitenta e cinco centavos), conforme custos unitários apostos a \nplanilha de formação de preços anexo deste edital."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0463",
+      "secao": "4. DO VALOR ESTIMADO E APLICAÇÃO DO BDI (BENEFÍCIO DE DESPESAS",
+      "texto": "sobre a Renda Bruta (CPRB), à alíquota de 4,5% \n(quatro e meio por cento), ao invés das contribuições destinadas à Seguridade Social (20%) \nincidentes sobre as remunerações pagas a seus empregados - é a chamada \"desoneração da folha \nde pagamento\". \nPor se tratar de uma obra de edificação onde o custo com mão de obra é elevado, esta \nadministração adotou os custos de referência com desoneração, ao BDI GERAL , o valor de \n28,82%."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0380",
+      "secao": "12. DA ESTIMATIVAS DO VALOR DA CONTRATAÇÃO",
+      "texto": "12. DA ESTIMATIVAS DO VALOR DA CONTRATAÇÃO"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0130",
+      "secao": "5.20.4. O agente de contratação solicitará ao licitante mais bem classificado que, no prazo de 02 (duas)",
+      "texto": "5.20.4. O agente de contratação solicitará ao licitante mais bem classificado que, no prazo de 02 (duas) \nhoras, que envie a proposta adequada ao último lance ofertado após a negociação realizada, \nacompanhada de composição de custos unitários constando obri gatoriamente os quantitativos de \nmaterial, todos os elementos e informações necessárias ao julgamento objetivo da proposta e mão-de-\nobra observando-se os pisos salariais das categorias envolvidas, composição da curva “abc” dispondo \nsobre insumos e serviços , composição de encargos sociais contendo todos os itens que a compõem, \ncom seus respectivos percentuais, composição de BDI (bonificação e despesas indiretas) contendo\n\n[página 10]"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0098",
+      "secao": "5.11. Será adotado para o envio de lances na licitação o modo de disputa “ABERTO”, onde os",
+      "texto": "5.11. Será adotado para o envio de lances na licitação o modo de disputa “ABERTO”, onde os \nlicitantes apresentarão lances públicos e sucessivos, com prorrogações."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0768",
+      "secao": "AÇÕES DE CONTINGÊNCIA/ SETOR RESPONSÁVEL",
+      "texto": "AÇÕES DE CONTINGÊNCIA/ SETOR RESPONSÁVEL \n \n• Verificar junto às empresas do ramo de atividade quais seriam os motivos do desinteresse pelo \nserviço no caso da licitação deserta ou revisão dos valores estimados no caso de licitação \nfracassada para uma possível repetição do certame. \n• Comissão de Licitação"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0113",
+      "secao": "5.17. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.",
+      "texto": "5.17. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0127",
+      "secao": "5.20.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação",
+      "texto": "5.20.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação \ninicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado \nem razão de sua proposta permanecer acima do preço máximo definido pela Administração."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0006",
+      "secao": "1. DO OBJETO",
+      "texto": "1. DO OBJETO \n1.1.O objeto da presente licitação é o EXECUÇÃO DE OBRA DE ENGENHARIA PARA"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0169",
+      "secao": "6.11.2. Dentre os documentos passíveis de solicitação, destacam -se também os que contenham as",
+      "texto": "6.11.2. Dentre os documentos passíveis de solicitação, destacam -se também os que contenham as \ncaracterísticas do material ofertado, tais como marca, modelo, tipo, fabricante e procedência, além de \noutras informações pertinentes."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0103",
+      "secao": "5.11.5. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances",
+      "texto": "5.11.5. Após o reinício previsto no item supra, os licitantes serão convocados para apresentar lances \nintermediários."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0062",
+      "secao": "3.13. O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema poderá",
+      "texto": "3.13. O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema poderá \nser alterado pelo fornecedor durante a fase de disputa, sendo vedado: \n3.13.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de \njulgamento por menor preço; e \n3.13.2. percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando \nadotado o critério de julgamento por maior desconto."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0227",
+      "secao": "7.18. Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá",
+      "texto": "7.18. Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá \nexclusão de licitante por motivo relacionado à habilitação, salvo em razão de fatos supervenientes ou \nsó conhecidos após o julgamento."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0126",
+      "secao": "5.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro",
+      "texto": "5.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro \ncolocado permanecer acima do preço máximo definido para a contratação, o Agente de Contratação \npoderá negociar condições mais vantajosas, após definido o resultado do julgamento."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0355",
+      "secao": "11.9.1. O prazo de que trata o item anterior será reduzido à metade, mantendo -se a possibilidade de",
+      "texto": "11.9.1. O prazo de que trata o item anterior será reduzido à metade, mantendo -se a possibilidade de \nprorrogação, nos casos de contratações decorrentes de despesas cujos valores não ultrapassem o limite \nde que trata o inciso II do art. 75 da Lei nº 14.133, de 2021"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0469",
+      "secao": "SERVIÇOS URBANOS E OBRAS PÚBLICAS",
+      "texto": "SERVIÇOS URBANOS E OBRAS PÚBLICAS \ncronograma físico-financeiro. \n O prazo de vigência da contratação é de 12 (doze) meses, a contar da data da assinatura do \ncontrato. \n O prazo de vigência será automaticamente prorrogado quando seu objeto não for concluído no \nperíodo firmado no contrato, nos termos do art. 111 da Lei nº 14.133/2021, desde que haja \nautorização formal da autoridade competente, sem prejuízo da responsabilização da parte que deu \ncausa ao descumprimento do prazo. \n Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de \nexecução será prorrogado automaticamente pelo tempo correspondente, anotadas tais \ncircunstâncias mediante termo aditivo."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0304",
+      "secao": "10.13. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o",
+      "texto": "10.13. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o \nfiscal técnico do contrato comunicará o fato imediatamente ao gestor do contrato. (Decreto nº 11.246, \nde 2022, art. 22, V);"
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0852",
+      "secao": "NÍVEL DE RISCO: MÉDIO",
+      "texto": "NÍVEL DE RISCO: MÉDIO \nFASE DO PROCESSO DE CONTRATAÇÃO: Execução Contratual \nALOCAÇÃO DO RISCO: Contratante \nDANOS: \n• Em caso de atraso superior a 90 (noventa) dias dos pagamentos devidos pela Administração, o \nContratado poderá optar pela suspensão do cumprimento de suas obrigações até que seja \nnormalizada a situação. \n• Atrasos para entrega da obra."
+    },
+    {
+      "chunk_id": "22981427000150-1-000017-2026#c0464",
+      "secao": "5. DO PRAZO E LOCAL DE EXECUÇÃO DOS SERVIÇOS",
+      "texto": "5. DO PRAZO E LOCAL DE EXECUÇÃO DOS SERVIÇOS \n \n A empresa contratada deverá apresentar seu cronograma físico -financeiro em até 05 \n(cinco) dias úteis após a assinatura do contrato . O referido documento será submetido à \naprovação pela FISCALIZAÇÃO. \n Os serviços deverão ser iniciados em até 05 (cinco) dias úteis, após o recebimento da \nORDEM DE SERVIÇO (OS) emitida pela Secretaria Municipal de Educação e o seu prazo de \nexecução será de até 12 (doze) meses (360 dias) , a contar da assinatura da OS, conforme\n\n[página 35]"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 3460,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.084,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

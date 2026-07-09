@@ -1,0 +1,252 @@
+{
+  "id_edital": "22981427000150-1-000016-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": 1995550.75,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "modalidade": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "22981427000150-1-000016-2026#c0056"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": "450 dias",
+      "chunks_evidencia": [
+        "22981427000150-1-000016-2026#c0952"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0074",
+      "secao": "4.9. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua",
+      "texto": "4.9. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de sua \napresentação."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0039",
+      "secao": "3.3. Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os licitantes",
+      "texto": "3.3. Caso a fase de habilitação anteceda as fases de apresentação de propostas e lances, os licitantes \nencaminharão, na forma e no prazo estabelecidos no item anterior, simultaneamente os documentos de \nhabilitação e a proposta com o preço, observado as disposições deste Edital.\n\n[página 4]"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0013",
+      "secao": "2.1.1. Os interessados deverão atender às condições exigidas no cadastramento no SICAF até o terceiro",
+      "texto": "2.1.1. Os interessados deverão atender às condições exigidas no cadastramento no SICAF até o terceiro \ndia útil anterior à data prevista para recebimento das propostas.\n\n[página 2]"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c1014",
+      "secao": "4.12. Serão disponibilizados data e horário diferentes aos interessados em realizar",
+      "texto": "4.12. Serão disponibilizados data e horário diferentes aos interessados em realizar \na vistoria prévia."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c1245",
+      "secao": "5.2. O valor total da contratação é de R$ .......... (........................................................",
+      "texto": "5.2. O valor total da contratação é de R$ .......... (..........................................................)"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0375",
+      "secao": "12.1. O custo estimado total da contratação é de R$ 1.995.550,75 (um milhão novecentos e",
+      "texto": "12.1. O custo estimado total da contratação é de R$ 1.995.550,75 (um milhão novecentos e \nnoventa e cinco mil quinhentos e cinquenta reais e setenta e cinco centavos) \nconforme custos unitários apostos a planilha de formação de preços anexo deste edital."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c1195",
+      "secao": "10.1. O custo estimado total da contratação é de R$ 1.995.550,75 (um milhão",
+      "texto": "10.1. O custo estimado total da contratação é de R$ 1.995.550,75 (um milhão \nnovecentos e noventa e cinco mil quinhentos e cinquenta reais e setenta e \ncinco centavos), conforme custos unitários apostos nos Estudos Técnicos \nPreliminares e Projeto Básico."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c1082",
+      "secao": "7.3.8. Compensatória, para a infração descrita acima na alínea “a”, de 5%",
+      "texto": "7.3.8. Compensatória, para a infração descrita acima na alínea “a”, de 5% \n(cinco por cento) a 20% (vinte por cento) do valor da contratação."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0092",
+      "secao": "5.11. Será adotado para o envio de lances na licitação o modo de disputa “ABERTO”, onde os",
+      "texto": "5.11. Será adotado para o envio de lances na licitação o modo de disputa “ABERTO”, onde os \nlicitantes apresentarão lances públicos e sucessivos, com prorrogações."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0107",
+      "secao": "5.17. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.",
+      "texto": "5.17. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0121",
+      "secao": "5.20.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação",
+      "texto": "5.20.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação \ninicialmente estabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado \nem razão de sua proposta permanecer acima do preço máximo definido pela Administração."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0132",
+      "secao": "6.1. Encerrada a etapa de negociação, o Agente de contratação/Comissão verificará se o licitante",
+      "texto": "6.1. Encerrada a etapa de negociação, o Agente de contratação/Comissão verificará se o licitante \nprovisoriamente classificado em primeiro lugar atende às condições de participação no certame, \nconforme previsto no art. 14 da Lei nº 14.133/2021, legislação c orrelata e no item 2.6 do edital, \nespecialmente quanto à existência de sanção que impeça a participação no certame ou a futura \ncontratação, mediante a consulta aos seguintes cadastros:"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0009",
+      "secao": "1. DO OBJETO",
+      "texto": "1. DO OBJETO \n1.1.O objeto da presente licitação é o OBRAS DE ENGENHARIA PRESTAÇÃO DE"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0163",
+      "secao": "6.11.2. Dentre os documentos passíveis de solicitação, destacam -se também os que contenham as",
+      "texto": "6.11.2. Dentre os documentos passíveis de solicitação, destacam -se também os que contenham as \ncaracterísticas do material ofertado, tais como marca, modelo, tipo, fabricante e procedência, além de \noutras informações pertinentes."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0533",
+      "secao": "DESCRIÇÃO DA OBRA: CONTRATAÇÃO DE EMPRESA DE ENGENHARIA",
+      "texto": "DESCRIÇÃO DA OBRA: CONTRATAÇÃO DE EMPRESA DE ENGENHARIA"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0056",
+      "secao": "3.13. O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema poderá",
+      "texto": "3.13. O valor final mínimo ou o percentual de desconto final máximo parametrizado no sistema poderá \nser alterado pelo fornecedor durante a fase de disputa, sendo vedado: \n3.13.1. valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de \njulgamento por menor preço; e \n3.13.2. percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando \nadotado o critério de julgamento por maior desconto."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c1121",
+      "secao": "HABILITAÇÃO JURÍDICA",
+      "texto": "HABILITAÇÃO JURÍDICA"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0221",
+      "secao": "7.18. Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá",
+      "texto": "7.18. Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, não caberá \nexclusão de licitante por motivo relacionado à habilitação, salvo em razão de fatos supervenientes ou \nsó conhecidos após o julgamento."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0120",
+      "secao": "5.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro",
+      "texto": "5.20. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do primeiro \ncolocado permanecer acima do preço máximo definido para a contratação, o Agente de Contratação \npoderá negociar condições mais vantajosas, após definido o resultado do julgamento."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0952",
+      "secao": "1.3. O prazo de vigência do contrato será de 450 (quatrocentos e cinquenta) dias,",
+      "texto": "1.3. O prazo de vigência do contrato será de 450 (quatrocentos e cinquenta) dias, \ncontados da assinatura do instrumento contratual, compreendendo o prazo de \nexecução da obra e o período necessário aos trâmites de recebimento provisório e \ndefinitivo, conforme cr onograma físico-financeiro constante como apêndice deste \nTermo de Referência."
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0298",
+      "secao": "10.13. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o",
+      "texto": "10.13. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o \nfiscal técnico do contrato comunicará o fato imediatamente ao gestor do contrato. (Decreto nº 11.246, \nde 2022, art. 22, V);"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c1044",
+      "secao": "6.12. No caso de ocorrências que possam inviabilizar a execução do contrato nas",
+      "texto": "6.12. No caso de ocorrências que possam inviabilizar a execução do contrato nas \ndatas aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao \ngestor do contrato. (Decreto nº 11.246, de 2022, art. 22, V);"
+    },
+    {
+      "chunk_id": "22981427000150-1-000016-2026#c0457",
+      "secao": "5. DO PRAZO E LOCAL DE EXECUÇÃO DOS SERVIÇOS",
+      "texto": "5. DO PRAZO E LOCAL DE EXECUÇÃO DOS SERVIÇOS \n \n A empresa contratada deverá apresentar seu cronograma físico -financeiro em até \n05 (cinco) dias úteis após a assinatura do contrato . O referido documento será submetido à \naprovação pela FISCALIZAÇÃO. \n Os serviços deverão ser iniciados em até 05 (cinco) dias úteis, após o recebimento \nda ORDEM DE SERVIÇO (OS) emitida pela Secretaria Municipal de Serviços Urbanos e o seu \nprazo de execução será de até 1 8 (dezoito) meses, a contar da assinatura da OS, conforme \ncronograma físico-financeiro. \n O prazo de vigência da contratação é de 18 (dezoito) meses, a contar da data da \nassinatura do contrato. \n O prazo de vigência será automaticamente prorrogado quando seu objeto não for \nconcluído no período firmado no contrato, nos termos do art. 111 da Lei nº 14.133/2021, desde \nque haja autorização formal da autoridade competente, sem prejuízo da responsabilização da parte\n\n[página 35]"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 3180,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.104,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

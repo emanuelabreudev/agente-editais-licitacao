@@ -1,0 +1,582 @@
+[página 1]
+Praça Marechal Deodoro 101, 
+- Bairro centro - CEP 90030-100 - Porto Alegre - RS 
+- www.al.rs.gov.br
+TERMO DE REFERÊNCIA / PROJETO BÁSICO Nº 4129909 - PL
+1. OBJETO
+1.1 Ata de registro de preços para a aquisição de 
+Suprimentos para a confecção de
+crachás, 
+conforme especificações e condições previstas neste instrumento e seus Anexos;
+ 
+Lote 1
+Item
+Descritivo
+Unidade de medida
+Quantidade
+I
+Cartões em PVC
+Unidade
+3000
+II
+Cartões 
+smartcard
+Unidade
+3000
+III
+Suportes rígidos para crachás
+Unidade
+3000
+ 
+ Lote 2
+Item
+Descritivo
+Unidade de medida
+Quantidade
+I
+Cordões serigrafados com clips
+Unidade
+3000
+II
+Presilhas tipo jacaré
+Unidade
+3000
+ 
+ Lote 3
+Item
+Descritivo
+Unidade de medida
+Quantidade
+I
+Ribbons
+Unidade
+30
+II
+Kit 
+Ribbon 
+de limpeza
+Unidade
+10
+ 
+1.2 Os bens do objeto desta contratação são caracterizados como comuns, não se enquadrando como bens
+de luxo, conforme Decreto n° 10.818, de 27 de setembro de 2021.
+1.3 
+O prazo de vigência da ata de registro de preços será de 1 (um) ano, contado a 
+partir da assinatura,
+cabendo prorrogação por igual período, desde que comprovada a 
+vantajosidade.
+1.3.1 Na hipótese de prorrogação, os quantitativos poderão ser aditados até o limite do originalmente
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 1
+
+[página 2]
+previsto para a vigência inicial.
+1.4 A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a
+eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua
+assinatura.
+1.5 O objeto dessa contratação será dividido em lotes.
+ 
+2. FINALIDADE, JUSTIFICATIVA E OBSERVAÇÕES
+2.1 A segurança institucional e a identidade visual guardam relação direta com o uso de crachás. Para tal,
+fazem-se necessárias as confecções de exemplares utilizados nas rotinas da Assembleia Legislativa – os
+destinados a servidores, colaboradores terceirizados, estagiários, visitantes, acesso ao Plenário 20 de
+Setembro e ativação do elevador reservado aos parlamentares. Outrossim, a confecção desses itens exige a
+aquisição contínua de materiais, tais quais cartões, presilhas, cordões, 
+smartcard
+s, 
+ribbons 
+e suportes
+rígidos, tratando-se de demanda que requer reposições periódicas.
+Atualmente, o estoque desses insumos está em nível adequado, porém, com o uso contínuo dos insumos e
+devido à temporalidade da licitação ser prolongada, é necessário se instituir um processo licitatório para
+fins de eventual reposição do estoque.
+2.2 
+Esta aquisição está prevista no item 62 do Plano de Contratações Anual da Assembleia Legislativa de
+2026.
+ 
+3. REQUISITOS DA CONTRATAÇÃO
+ 
+3.1 
+Por tratar-se de objeto comum, de considerável disponibilidade no mercado, cuja utilização não
+demanda características extraordinárias, não há exigências específicas quanto ao fornecedor.
+ 
+3.2 Em relação aos itens, é necessário que estes possuam os seguintes requisitos:
+ 
+3.2.1 Lote 1
+ 
+Item I Cartões em PVC 
+para a confecção de crachás, novos e sem uso, na cor branca, com 0,75 (zero
+vírgula setenta e cinco) mm de espessura, 86 (oitenta e seis) mm de largura e 54 (cinquenta e quatro) mm
+de altura. 
+Código GCE: 
+0002.0508.010016.
+ 
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 2
+
+[página 3]
+Item II Cartões 
+smartcard
+, novos e sem uso, padrão MIFARE 13.56MHZ ISO 14443-A/B. 
+Código
+GCE: 0045.0738.000005.
+-Confecção em PVC branco, medindo 0,84 mm de espessura x 54 mm de altura x 85,5 mm de largura.
+-Memória de 1K.
+-Tempo de retenção de ao menos 10 anos.
+-Ao menos 100.000 (cem mil) ciclos de leitura e escrita.
+-Número de série único de 32 bits, com ao menos os últimos 8 (oito) algarismos gravados em uma das
+faces.
+-Criptografia com autenticação mútua conforme ISO 9798-2.
+ 
+Obs: os cartões devem apresentar perfeita compatibilidade com o sistema de controle de acesso utilizado
+na Assembleia Legislativa.
+ 
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 3
+
+[página 4]
+Item III
+ 
+Suportes rígidos para crachás. Código GCE: 0002.0508.010025.
+-
+Novos e sem uso, confeccionados em plástico transparente, com capacidade para dois cartões (porta-
+crachás duplo), compatíveis com crachás de 0,84 (zero vírgula oitenta e quatro) mm de espessura, 86
+(oitenta e seis) mm de largura e 54 (cinquenta e quatro) mm de altura.
+-
+Permitem o acondicionamento do cartão tanto na posição vertical quanto na horizontal.
+ 
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 4
+
+[página 5]
+3.2.2 Lote 2
+ 
+Item I Cordões serigrafados com clips 
+para crachás,
+Código GCE: 004.5073.8000004.
+-Novos e sem uso.
+-Em poliéster.
+- Nas cores vermelho, verde e azul.
+- 84 (oitenta e quatro) centímetros de comprimento e 1 (um) centímetro de largura.
+- Cada cordão contará com a impressão “ASSEMBLEIA LEGISLATIVA – RS”, na cor branca, fonte
+Arial Black, tamanho 18 (dezoito), em ambas as faces.
+- Modelo:
+ 
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 5
+
+[página 6]
+Item II Presilhas tipo jacaré
+ para fixação de crachás. 
+Código GCE: 0002.0508.000439.
+- Novas e sem uso.
+- Dotadas de alça plástica transparente em PVC cristal e de sistema de fechamento através de botão de
+pressão confeccionado em metal e alça transparente .
+ 
+ 
+ 
+3.2.3 Lote 3
+ 
+Item I Ribbons coloridos para a impressora 
+ZEBRA ZC100/ZC300. Código GCE: 0034.0089.010059
+- Insumo suficiente para a produção de no mínimo 3.000 (três mil) cartões com impressão colorida,
+incluindo fitas (ribbons) coloridos e quaisquer outros necessários para o perfeito funcionamento da
+impressora Zebra ZC300.
+- Por questões de compatibilidade, perfeito funcionamento e garantia, serão aceitos apenas produtos
+originais; recusar-se- ão, assim, similares ou equivalentes.
+- Possuir 5 painéis YMCKO.
+ 
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 6
+
+[página 7]
+Item II Kit de limpeza
+- Compatível com a impressora Zebra ZC 300;
+- Incluir no Kit:
+- Cartão de limpeza;
+- Rolete adesivo de limpeza.
+ 
+Subcontratação
+3.3 Não será admitida a subcontratação do objeto contratual.
+ 
+Garantia da contratação
+3.4 Não haverá exigência da garantia da contratação dos art. 96 e seguintes da Lei nº 14.133, de 2021.
+ 
+Possibilidade de participação de consórcios
+3.5 Não será admitida a participação de consórcios.
+ 
+Critérios de sustentabilidade
+3.6 A empresa deverá entregar itens que tenham menor potencial de agressão ao meio ambiente.
+ 
+4. MODELO DE EXECUÇÃO DO OBJETO
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 7
+
+[página 8]
+Condições de execução
+4.1 A Assembleia Legislativa solicitará, à vencedora dos lotes do certame, o quantitativo a ser fornecido.
+4.1.1 Deverá a Assembleia Legislativa solicitar, por pedido, o mínimo de:
+4.1.1.1 500 Cartões em PVC;
+4.1.1.2 500 Cartões Smartcard;
+4.1.1.3 500 Suportes rígidos para crachás;
+4.1.1.4 500 Cordões serigrafados com clips;
+4.1.1.5 500 Presilhas tipo jacaré;
+4.1.1.6 10 Ribbons;
+4.1.1.7 1 Kit de Limpeza.
+4.2 O prazo de entrega dos itens é de 15 dias úteis a contar do envio do Empenho à vencedora do certame;
+4.3 Os itens deverão ser entregues na Administração da Polícia Legislativa, localizado no jardim da
+Assembleia Legislativa em 
+Pça. Mal. Deodoro 101, Porto Alegre, RS, 90010-300, no horário comercial
+(segunda a sexta, das 8h30min às 12h00min; 13h00 min às 17h00min).
+ 
+Garantia, manutenção e assistência técnica
+4.4 O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de
+Defesa do Consumidor);
+ 
+5. MODELO DE GESTÃO DO CONTRATO
+5.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as
+normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou
+parcial.
+5.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução
+será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante
+simples apostila.
+5.3. As comunicações entre o órgão ou entidade e o Contratado devem ser realizadas por escrito sempre
+que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim.
+ 
+Condições de execução
+5.4. O fiscal do contrato verificará a manutenção das condições de habilitação da contratada, acompanhará
+o empenho, o pagamento, as garantias, as glosas e a formalização de apostilamento e termos aditivos,
+solicitando quaisquer documentos comprobatórios pertinentes, caso necessário.
+5.5. Caso ocorra descumprimento das obrigações contratuais, o fiscal do contrato atuará tempestivamente
+na solução do problema, reportando ao gestor do contrato para que tome as providências cabíveis, quando
+ultrapassar a sua competência.
+5.6. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade do Contratado,
+inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de imperfeições técnicas,
+vícios redibitórios, ou emprego de material inadequado ou de qualidade inferior e, na ocorrência desta, não
+implica corresponsabilidade do Contratante ou de seus agentes, gestores e fiscais, de conformidade.
+5.7 O Fiscal comunicar-se-á com a empresa mediante e-mail.
+ 
+Gestão do contrato
+5.7. Cabe ao gestor do contrato:
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 8
+
+[página 9]
+5.7.1. coordenar a atualização do processo de acompanhamento e fiscalização do contrato contendo todos
+os registros formais da execução no histórico de gerenciamento do contrato, a exemplo da ordem de
+serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com
+vistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da
+administração.
+5.7.2 acompanhar os registros realizados pelos fiscais do contrato, de todas as ocorrências relacionadas à
+execução do contrato e as medidas adotadas, informando, se for o caso, à autoridade superior àquelas que
+ultrapassarem a sua competência.
+5.7.3 acompanhar a manutenção das condições de habilitação da contratada, para fins de empenho de
+despesa e pagamento, e anotará os problemas que obstem o fluxo normal da liquidação e do pagamento da
+despesa no relatório de riscos eventuais.
+5.7.4 emitir documento comprobatório da avaliação realizada pelos fiscais quanto ao cumprimento de
+obrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado
+nos indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar
+do cadastro de atesto de cumprimento de obrigações.
+5.7.5 tomar providências para a formalização de processo administrativo de responsabilização para fins de
+aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou
+pelo agente ou pelo setor com competência para tal, conforme o caso.
+5.7.6 elaborar relatório final com informações sobre a consecução dos objetivos que tenham justificado a
+contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da Administração.
+5.7.7 enviar a documentação pertinente ao Departamento de Orçamento e Finanças para a formalização
+dos procedimentos de liquidação e pagamento, com a indicação expressa de que o valor da Nota Fiscal
+emitida pela contratada confere com o valor dimensionado pela fiscalização e gestão no recebimento
+definitivo do serviço.
+ 
+6. CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+Recebimento
+6.1. Os bens serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com a nota
+fiscal ou instrumento de cobrança equivalente, pelo(a) responsável pelo acompanhamento e fiscalização do
+contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes no
+Termo de Referência e na proposta.
+6.2. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório,
+quando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo
+ser substituídos no prazo de 15 dias úteis, a contar da notificação da contratada, às suas custas, sem
+prejuízo da aplicação das penalidades.
+6.3. O recebimento definitivo ocorrerá no prazo de 30 dias úteis, a contar do recebimento da nota fiscal ou
+instrumento de cobrança equivalente pela Administração, após a verificação da qualidade e quantidade do
+material e consequente aceitação mediante termo detalhado. 
+6.4. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada,
+por igual período, quando houver necessidade de diligências para a aferição do atendimento das exigências
+contratuais.
+6.5. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade,
+deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão
+de Nota Fiscal quanto à parcela incontroversa da execução do objeto, para efeito de liquidação e
+pagamento.
+6.6. O prazo para a solução, pelo Contratado, de inconsistências na execução do objeto ou de saneamento
+da nota fiscal ou de instrumento de cobrança equivalente, verificadas pela Administração durante a análise
+prévia à liquidação de despesa, não será computado para os fins do recebimento definitivo.
+6.7. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 9
+
+[página 10]
+segurança dos bens nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+ 
+Liquidação
+6.8. Para fins de liquidação, o setor competente deve verificar se a Nota Fiscal ou Fatura apresentada
+expressa os elementos necessários e essenciais do documento.
+6.9. Havendo erro na apresentação da Nota Fiscal/Fatura, ou circunstância que impeça a liquidação da
+despesa, esta ficará sobrestada até que o Contratado providencie as medidas saneadoras, reiniciando-se o
+prazo após a comprovação da regularização da situação, sem ônus ao Contratante.
+6.10. A Nota Fiscal ou Fatura deverá ser obrigatoriamente acompanhada da comprovação da regularidade
+fiscal, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da Lei nº
+14.133/2021.
+6.11. Constatando-se a situação de irregularidade do Contratado, será providenciada sua notificação, por
+escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente
+sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do Contratante.
+6.12. Não havendo regularização ou sendo a defesa considerada improcedente, o Contratante deverá
+comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência do
+Contratado, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os
+meios pertinentes e necessários para garantir o recebimento de seus créditos.
+6.13. Persistindo a irregularidade, o Contratante deverá adotar as medidas necessárias à rescisão contratual
+nos autos do processo administrativo correspondente, assegurada ao Contratado a ampla defesa.
+6.14. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se
+decida pela rescisão do contrato, caso o Contratado não regularize sua situação junto ao SICAF.
+ 
+Prazo de pagamento
+6.15. O pagamento será efetuado no prazo de até 15 (quinze) dias, contados a partir da apresentação do
+documento fiscal de cobrança relativo aos itens entregues durante o mês, junto às respectivas requisições
+do Gestor.
+ 
+Forma de pagamento
+6.16. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta
+corrente indicados pelo Contratado.
+6.17. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para
+pagamento.
+6.18. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+6.19. O Contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123,
+de 2006, não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele
+regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de
+documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei
+Complementar.
+ 
+Reajuste
+6.20. 
+Na hipótese de prorrogação da Ata de Registro de Preços, os preços registrados poderão ser
+reajustados, de acordo com a variação do IPCA/IBGE, ou outro índice que venha a substituí-lo, mediante
+solicitação fundamentada do FORNECEDOR, após o transcurso de 1 (um) ano contado da data em que a
+autoridade superior da ALRS definiu o(s) valor(es) estimado(s) em despacho assinado constante no
+processo administrativo, doc. SEI 4125690 do dia 17/04/2026.
+6.21. Para fins de pagamento, será considerado o preço vigente na data do pedido, sendo devidas,
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 10
+
+[página 11]
+posteriormente, eventuais diferenças decorrentes de termo aditivo que recaia sobre a referida ata.
+6.22. Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) ou de qualquer
+forma não possa(m) mais ser utilizado(s), será(ão) adotado(s), em substituição, o(s) que vier(em) a ser
+determinado(s) pela legislação então em vigor.
+6.23. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para
+reajustamento do preço do valor remanescente, por meio de termo aditivo.
+ 
+7. INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+7.1. Se a adjudicatária inadimplir as obrigações assumidas, no todo ou em parte, ficará sujeita às sanções
+previstas na Lei Federal nº 14.133/2021, assim como ao pagamento de multa nos seguintes termos:
+7.1.1 pelo atraso em relação ao prazo estipulado para a entrega do objeto: 0,5% do valor total da aquisição,
+por dia decorrido, até o limite máximo de 10 (dez) dias de atraso, após o que valerá a regra 7.1.2 deste
+subitem;
+7.1.2 se o atraso referido na alínea "a" for superior a 10 (dez) dias, o percentual de multa a ser calculado
+durante todo período (desde o 1º dia de atraso), será de 0,75% ao dia, até o limite máximo de 20 (vinte)
+dias de atraso, após o que valerá a regra 7.1.3 deste subitem;
+7.1.3 se o atraso referido na alínea "b" for superior a 20 (vinte) dias, o percentual de multa a ser calculado
+durante todo período (desde o 1º dia de atraso), será de 1,0% ao dia, até o limite máximo de 30 (trinta) dias
+de atraso, após o que restará configurada a inexecução contratual, com aplicação das penalidades
+incidentes no caso e aplicação da multa prevista no ponto 7.1.5 deste subitem;
+7.1.4 nos casos de inexecução parcial, execução imperfeita ou negligência no fornecimento do objeto: 10%
+do valor total do objeto. Tal sanção será aplicada, também, no caso de recusa do fornecedor em substituir
+algum item entregue com defeito, hipótese que restará configurada após o transcurso de 24h (vinte e
+quatro horas) sem apresentação de novo objeto livre de defeito por parte da adjudicatária; 
+7.1.5 no caso de inexecução total: 15% do valor total anual estimado do objeto;
+7.1.6 pelo não cumprimento de qualquer condição fixada neste Edital e não abrangida nas
+alíneas anteriores: 1% do valor do serviço demandado, para cada evento, tendo como limite máximo de
+multa 10% do valor total do objeto.
+ 
+8. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E REGIME DE EXECUÇÃO
+Forma de seleção e critério de julgamento da proposta
+ 
+8.1. O fornecedor será selecionado por meio da realização de procedimento de Licitação, na modalidade
+Pregão, sob a forma eletrônica, com adoção do critério de julgamento pelo Menor Preço.
+ 
+Forma de fornecimento
+8.2. O fornecimento do objeto será parcelado.
+8.3. A empresa deverá encaminhar os cordões serigrafados - dentro do padrão descrito neste TR, ou seja,
+vermelho, verde e azul - conforme as cores solicitadas pela Assembleia Legislativa quando enviado o
+empenho.
+ 
+Exigências de habilitação
+8.4. Para fins de habilitação, deverá o interessado comprovar os seguintes requisitos:
+ 
+Qualificação Técnico-Operacional
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 11
+
+[página 12]
+8.5. Quanto aos cartões 
+smartcard, 
+para fins de mensurar a compatibilidade destes com o sistema de
+controle de acesso da Assembleia Legislativa, as empresas deverão encaminhar o catálogo de
+fornecimento de 
+smartcard, 
+ou instrumento congênere, que permita a identificação das especificações
+técnicas dos cartões.
+ 
+9. ESTIMATIVA DO VALOR DA CONTRATAÇÃO
+9.1 O custo estimado total da contratação, que é o máximo aceitável, é de R$ R$ 15.720,00 para o lote 1,
+R$ 10.230,00 para o lote 2 e R$ 11.600,00 para o lote 3, conforme custos unitários apostos na tabela a
+seguir:
+ 
+Lote 1
+Item
+Descritivo
+Unidade de
+medida
+Quantidade
+Valor
+Unitário
+Valor Total
+I
+Cartões em PVC
+Unidade
+3000
+R$ 2,20
+R$ 6.600,00
+II
+Cartões 
+smartcard
+Unidade
+3000
+R$ 2,25
+R$ 6.750,00
+III
+Suportes rígidos para
+crachás
+Unidade
+3000
+R$ 0,79
+R$ 2.370,00
+TOTAL
+ 
+ 
+ 
+ 
+R$
+15.720,00
+ 
+Lote 2
+Item
+Descritivo
+Unidade de
+medida
+Quantidade
+Valor
+Unitário
+Valor Total
+I
+Cordões serigrafados com
+clips
+Unidade
+3000
+R$ 2,30
+R$ 6.900,00
+II
+Presilhas tipo jacaré
+Unidade
+3000
+R$ 1,11
+R$ 3.330,00
+TOTAL
+ 
+ 
+ 
+ 
+R$
+10.230,00
+ 
+Lote 3
+Item
+Descritivo
+Unidade de medida
+Quantidade
+Valor Unitário
+Valor Total
+I
+Ribbons
+Unidade
+30
+R$ 300,00
+R$ 9.000,00
+II
+Kit de limpeza
+Unidade
+10
+R$ 260,00
+R$ 2.600,00
+TOTAL
+ 
+ 
+ 
+ 
+R$ 11.600,00
+ 
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 12
+
+[página 13]
+10. 
+DAS OBRIGAÇÕES DA CONTRATADA
+10.1. Manter, durante a execução do Contrato, em compatibilidade com as obrigações assumidas, todas as
+condições de habilitação e qualificação exigidas na assinatura deste instrumento, comprovando-as, a
+qualquer tempo, mediante solicitação da CONTRATANTE.
+10.2. Informar à Polícia Legislativa, o nome, endereço e telefone do responsável pelos serviços da Empresa.
+10.3. Responsabilizar-se por danos pessoais ou materiais causados diretamente por seus funcionários na
+execução deste contrato, decorrentes de sua culpa ou dolo, apurados após regular processo administrativo.
+10.4. Reparar, corrigir, remover ou substituir, as suas expensas, no total ou em parte, o objeto do contrato em
+que se verificarem vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados.
+10.6. Encaminhar os cordões serigrafados - dentro do padrão descrito neste TR, ou seja, vermelho, verde e
+azul - conforme as cores solicitadas pela Assembleia Legislativa.
+ 
+11. DAS OBRIGAÇÕES DA CONTRATANTE
+11.1 A CONTRATANTE obriga-se a
+ 
+notificar a CONTRATADA sobre quaisquer irregularidades que
+ocorram, para que a mesma possa tomar de imediato as providências necessárias e cabíveis ao caso.
+ 
+12. DA RESCISÃO
+O descumprimento das obrigações contratuais por parte da CONTRATADA assegura à CONTRATANTE o
+direito de rescindir o Contrato, a qualquer tempo, nos termos das disposições contidas no Artigo 138 da Lei
+Federal nº 14.133/2021.
+ 
+13. DA ADESÃO À ATA
+Não será permitida a adesão à ata.
+ 
+14. DOTAÇÃO ORÇAMENTÁRIA
+A ser definida pelo Departamento de Orçamento e Finanças do Poder Legislativo.
+ 
+15. GESTOR DO CONTRATO
+O gestor do contrato deverá ser o coordenador da área requisitante, a Divisão de Policiamento Institucional.
+Especificamente, será Luis Vanius da Luz Gonçalves.
+ 
+16. FISCAL DO CONTRATO
+O fiscal do contrato será Thalles Ricardo de Melo Silva.
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 13
+
+[página 14]
+Documento assinado eletronicamente por 
+Hugo Leandro Rossetto
+, 
+Coordenador(a) em Substituição
+,
+em 24/04/2026, às 08:54, conforme o art. 4º, § 3º, da Resolução nº 3.145/2015.
+Documento assinado eletronicamente por 
+Cristiano Piola da Luz
+, 
+Diretor(a)
+, em 24/04/2026, às 08:56,
+conforme o art. 4º, § 3º, da Resolução nº 3.145/2015.
+A autenticidade do documento pode ser conferida clicando 
+aqui
+ ou acessando
+https://sei.al.rs.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&acao_origem=documento_conferir&id_orgao_acesso_externo=0 , informando o
+código verificador 
+4129909
+ e o código CRC 
+469226E7
+.
+000003351-01.00/26-7
+4129909v
+7
+Termo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 14

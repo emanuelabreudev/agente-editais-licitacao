@@ -1,0 +1,239 @@
+{
+  "id_edital": "01519467000105-1-000041-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": 50.0,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "modalidade": {
+      "valor": "concorrencia",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": "PI",
+      "chunks_evidencia": [
+        "01519467000105-1-000041-2026#c0002"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "01519467000105-1-000041-2026#c0200"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": "12 meses",
+      "chunks_evidencia": [
+        "01519467000105-1-000041-2026#c0071"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0038",
+      "secao": "4.4. O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar",
+      "texto": "4.4. O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar \ndadata de sua apresentação."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0032",
+      "secao": "4.1. Encerrada a fase anterior, o licitante melhor classificado deverá, sob pena de",
+      "texto": "4.1. Encerrada a fase anterior, o licitante melhor classificado deverá, sob pena de \ndesclassificação, enviar a proposta readequada no prazo de 60 (sessenta minutos), onde \nserá verificada a conformidade da proposta classificada em primeiro lugar quanto à \nadequação do objeto e à compatibilidade do preço em relação ao estipulado para a \ncontratação."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0200",
+      "secao": "10. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E FORMA DE EXECUÇÃO",
+      "texto": "10. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E FORMA DE EXECUÇÃO \n \n \n10.1 Forma de seleção e critério de julgamento da proposta \n \n \n10.1.1 O contratado será selecionado por meio da realização de procedimento de CONCORRÊNCIA, \nna forma eletrônica, com fundamento na hipótese do art. 6º, inciso XXXVIII, da Lei nº 14.133/2021, \nque culminará com a seleção da proposta de MENOR PREÇO GLOBAL. \n \n10.1.2 A execução do objeto será em parcelada, conforme prazo e condições estabelecidos cronograma \nfísico-financeiro."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0068",
+      "secao": "6.2.1. O prazo previsto para assinatura do contrato ou aceitação da nota de empenho",
+      "texto": "6.2.1. O prazo previsto para assinatura do contrato ou aceitação da nota de empenho \nou instrumento equivalente poderá ser prorrogado 1 (uma) vez, por igual período, por \nsolicitação justificada do adjudicatário e aceita pela Administração."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0203",
+      "secao": "11. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO",
+      "texto": "11. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO \n \n \n11.1 O custo estimado total da contratação é de R$ 50,008.49, conforme custos unitários apostos no \nobjeto e tabela deste Edital."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0003",
+      "secao": "1.1. A contratação será feita através de lote único, conforme tabela constante no termo",
+      "texto": "1.1. A contratação será feita através de lote único, conforme tabela constante no termo \nde referência."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0130",
+      "secao": "2.2. O prazo de vigência da contratação é contado a partir da assinatura do contrato, na forma do artigo",
+      "texto": "2.2. O prazo de vigência da contratação é contado a partir da assinatura do contrato, na forma do artigo \n105 da Lei n° 14.133, de 2021, prorrogável na forma dos artigos 106 e 107 da Lei n° 14.133, de 2021. \nO prazo de contratação é resultado da soma da execução dos serviços 90 (noventa) dias, mais o \nrecebimento provisório de 15 (quinze) dias, mais o recebimento definitivo de 30 (trinta) dias."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0071",
+      "secao": "6.4. O prazo de vigência da contratação é de 12(doze)meses, prorrogável conforme",
+      "texto": "6.4. O prazo de vigência da contratação é de 12(doze)meses, prorrogável conforme \nprevisão nos anexos a este Aviso de Contratação Direta."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0035",
+      "secao": "4.2.2. A negociação poderá ser feita com os demais fornecedores classificados,",
+      "texto": "4.2.2. A negociação poderá ser feita com os demais fornecedores classificados, \nrespeitada a ordem de classificação, quando o primeiro colocado, mesmo após a \nnegociação, for desclassificado em razão de sua proposta permanecer acima do preço \nmáximo definido para a contratação."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0091",
+      "secao": "8.2.2. Valer-se, para a contratação, de proposta obtida na pesquisa de preços",
+      "texto": "8.2.2. Valer-se, para a contratação, de proposta obtida na pesquisa de preços \nque serviu de base ao procedimento, se houver, privilegiando -se os menores \npreços,sempre que possível, e desde que atendidas às condições de habilitação exigidas. \n8.2.2.1. No caso do subitem anterior, a contratação será operacionalizada fora deste\n\n[página 10]"
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0132",
+      "secao": "2.3. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da",
+      "texto": "2.3. O contrato oferece maior detalhamento das regras que serão aplicadas em relação à vigência da \ncontratação. \n \n2.4 A licitação se dará no regime por Empreitada por preço global, na qual a Administração contrata \na execução da obra ou do serviço por preço certo e total, conforme reza o art. 6º, inciso XXIX da \nLei14.133/2021."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0002",
+      "secao": "1. OBJETO DA CONTRATAÇÃO DIRETA",
+      "texto": "1. OBJETO DA CONTRATAÇÃO DIRETA \n \nO objeto da presente dispensa é a escolha da proposta mais vantajosa para a contratação por \ndispensa de licitação para “Contratação para a prestação de serviços Diversos de Recuperação, \nInstalação, Pintura, Poda e Pintura em vários logradouros da Sede, com a finalidade de \nOrnamentação para as Festividades da cidade de São Luís do Piauí -PI”. Conforme condições, \nquantidades e exigências estabelecidas neste Aviso de Contratação Direta e seus anexos."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0015",
+      "secao": "3.1. O ingresso do fornecedor na disputa da dispensa eletrônica se dará com o",
+      "texto": "3.1. O ingresso do fornecedor na disputa da dispensa eletrônica se dará com o \ncadastramento de sua proposta inicial, na forma deste item."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0026",
+      "secao": "3.10. A proposta de licitação deverá ser composta pela carta -proposta comercial,",
+      "texto": "3.10. A proposta de licitação deverá ser composta pela carta -proposta comercial, \nincluindo todas as declarações exigidas, e pelas planilhas orçamentárias completas. A \napresentação de apenas um desses documentos ou se inseridos de forma incompleta, não será \nconsiderada suficiente para o cumprimento das exigências do edital"
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0016",
+      "secao": "3.2. O fornecedor interessado, após a divulgação do aviso de contratação direta,",
+      "texto": "3.2. O fornecedor interessado, após a divulgação do aviso de contratação direta, \nencaminhará, exclusivamente por meio do Sistema de Dispensa Eletrônica, a proposta com \na descrição do objeto ofertado, a marca do produto, quando for o caso, carta -proposta, \nplanilhas, e o preço, até a data e o horário estabelecidos para abertura do procedimento.\n\n[página 3]"
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0005",
+      "secao": "1.2. O critério de julgamento adotado será o menor preço, observadas as exigências contidas",
+      "texto": "1.2. O critério de julgamento adotado será o menor preço, observadas as exigências contidas \nneste Aviso de Contratação Direta e seus Anexos quanto às especificações do objeto."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0031",
+      "secao": "4. JULGAMENTO DAS PROPOSTAS DE PREÇO",
+      "texto": "4. JULGAMENTO DAS PROPOSTAS DE PREÇO"
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0079",
+      "secao": "7.4. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento",
+      "texto": "7.4. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento \neventualmente devido pela Administração ao contratado, além da perda desse valor, a \ndiferença será descontada da garantia prestada ou será cobrada judicialmente."
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0169",
+      "secao": "7.7.5. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal",
+      "texto": "7.7.5. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal \ntécnico do contrato comunicará o fato imediatamente ao gestor do contrato. (Decreto nº 11.246, de \n2022, art. 22, V);"
+    },
+    {
+      "chunk_id": "01519467000105-1-000041-2026#c0183",
+      "secao": "PREFEITURA MUNICIPAL DE SÃO LUÍS DO PIAUÍ",
+      "texto": "do contrato para recebimento definitiv o. \n \n8.2.14 Os serviços serão recebidos definitivamente no prazo de 30 (trinta) dias , contados do recebimento \nprovisório, por servidor ou comissão designada pela autoridade competente, após a verificação da \nqualidade e quantidade do serviço e consequente aceitação mediante termo detalhado, obedecendo \nos seguintes procedimentos: \n \n8.2.15 Emitir documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e \nsetorial, quando houver, no cumprimento de obrigações assumidas pelo contratado, com menção ao \nseu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e \na eventuais penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de \nobrigações, conforme regulamento (art. 21, VIII, Decreto nº 11.246, de 2022). \n \n8.2.16 Realizar a análise dos relatórios e de toda a documentação apresentada pela fiscalização e, caso haja \nirregularidades que impeçam a liquidação e o pagamento da despesa, indicar as cláusulas \ncontratuais pertinentes, solicitando à CONTRATADA, por escrito, as respectivas correções; \n \n8.2.17 Emitir Termo Detalhado para efeito de recebimento definitivo dos serviços prestados, com base nos \nrelatórios e documentações apresentadas; e \n \n8.2.18 Comunicar a empresa para que emita a Nota Fiscal ou Fatura, com o valor exato dimensionado pela"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 3678,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.125,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "88201298000149-1-000679-2026": {
+    "n_paginas": 0,
+    "n_paginas_ocr": 0,
+    "metodo": "docx",
+    "caracteres": 113226,
+    "avisos": []
+  },
+  "88861448000140-1-000291-2026": {
+    "n_paginas": 40,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 68733,
+    "avisos": []
+  },
+  "88243688000181-1-000049-2026": {
+    "n_paginas": 14,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 24341,
+    "avisos": []
+  },
+  "34812644000104-1-000006-2026": {
+    "n_paginas": 35,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 99436,
+    "avisos": []
+  },
+  "46374500000194-1-004194-2026": {
+    "n_paginas": 41,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 40542,
+    "avisos": [
+      "26 página(s) com pouco texto e OCR indisponível (instale tesseract-ocr + poppler-utils)"
+    ]
+  },
+  "46374500000194-1-004195-2026": {
+    "n_paginas": 43,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 132204,
+    "avisos": [
+      "1 página(s) com pouco texto e OCR indisponível (instale tesseract-ocr + poppler-utils)"
+    ]
+  },
+  "12122065000199-1-000067-2026": {
+    "n_paginas": 220,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 371139,
+    "avisos": [
+      "PDF com 220 páginas; processadas apenas as 150 primeiras"
+    ]
+  },
+  "56024581000156-1-000199-2026": {
+    "n_paginas": 1,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 826,
+    "avisos": []
+  },
+  "02304470000174-1-000068-2026": {
+    "n_paginas": 1,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 911,
+    "avisos": []
+  },
+  "22981427000150-1-000015-2026": {
+    "n_paginas": 165,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 383283,
+    "avisos": [
+      "PDF com 165 páginas; processadas apenas as 150 primeiras"
+    ]
+  },
+  "22981427000150-1-000016-2026": {
+    "n_paginas": 126,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 283123,
+    "avisos": []
+  },
+  "22981427000150-1-000017-2026": {
+    "n_paginas": 169,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 356512,
+    "avisos": [
+      "PDF com 169 páginas; processadas apenas as 150 primeiras"
+    ]
+  },
+  "02928213000103-1-000033-2026": {
+    "n_paginas": 1,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 535,
+    "avisos": []
+  },
+  "02928213000103-1-000034-2026": {
+    "n_paginas": 1,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 536,
+    "avisos": []
+  },
+  "01519467000105-1-000040-2026": {
+    "n_paginas": 22,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 55057,
+    "avisos": []
+  },
+  "01519467000105-1-000041-2026": {
+    "n_paginas": 32,
+    "n_paginas_ocr": 0,
+    "metodo": "pypdf",
+    "caracteres": 78048,
+    "avisos": []
+  }
+}

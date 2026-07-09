@@ -1,0 +1,224 @@
+{
+  "id_edital": "88243688000181-1-000049-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": 15720.0,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "modalidade": {
+      "valor": "pregao eletronico",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": "0,5% do valor total da aquisição, por dia decorrido, até o limite máximo de 10 (dez) dias de atraso, após o que valerá a regra 7.1.2 deste subitem;",
+      "chunks_evidencia": [
+        "88243688000181-1-000049-2026#c0044"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "88243688000181-1-000049-2026#c0047"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": "1 anos",
+      "chunks_evidencia": [
+        "88243688000181-1-000049-2026#c0021"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0046",
+      "secao": "8. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E REGIME DE EXECUÇÃO",
+      "texto": "8. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E REGIME DE EXECUÇÃO\nForma de seleção e critério de julgamento da proposta"
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0021",
+      "secao": "6.2. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório,",
+      "texto": "6.2. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório,\nquando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo\nser substituídos no prazo de 15 dias úteis, a contar da notificação da contratada, às suas custas, sem\nprejuízo da aplicação das penalidades."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0023",
+      "secao": "6.4. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada,",
+      "texto": "6.4. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada,\npor igual período, quando houver necessidade de diligências para a aferição do atendimento das exigências\ncontratuais."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0031",
+      "secao": "6.11. Constatando-se a situação de irregularidade do Contratado, será providenciada sua notificação, por",
+      "texto": "6.11. Constatando-se a situação de irregularidade do Contratado, será providenciada sua notificação, por\nescrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente\nsua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do Contratante."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0052",
+      "secao": "9. ESTIMATIVA DO VALOR DA CONTRATAÇÃO",
+      "texto": "9. ESTIMATIVA DO VALOR DA CONTRATAÇÃO\n9.1 O custo estimado total da contratação, que é o máximo aceitável, é de R$ R$ 15.720,00 para o lote 1,\nR$ 10.230,00 para o lote 2 e R$ 11.600,00 para o lote 3, conforme custos unitários apostos na tabela a\nseguir:\n \nLote 1\nItem\nDescritivo\nUnidade de\nmedida\nQuantidade\nValor\nUnitário\nValor Total\nI\nCartões em PVC\nUnidade\n3000\nR$ 2,20\nR$ 6.600,00\nII\nCartões \nsmartcard\nUnidade\n3000\nR$ 2,25\nR$ 6.750,00\nIII\nSuportes rígidos para\ncrachás\nUnidade\n3000\nR$ 0,79\nR$ 2.370,00\nTOTAL\n \n \n \n \nR$\n15.720,00\n \nLote 2\nItem\nDescritivo\nUnidade de\nmedida\nQuantidade\nValor\nUnitário\nValor Total\nI\nCordões serigrafados com\nclips\nUnidade\n3000\nR$ 2,30\nR$ 6.900,00\nII\nPresilhas tipo jacaré\nUnidade\n3000\nR$ 1,11\nR$ 3.330,00\nTOTAL\n \n \n \n \nR$\n10.230,00\n \nLote 3\nItem\nDescritivo\nUnidade de medida\nQuantidade\nValor Unitário\nValor Total\nI\nRibbons\nUnidade\n30\nR$ 300,00\nR$ 9.000,00\nII\nKit de limpeza\nUnidade\n10\nR$ 260,00\nR$ 2.600,00\nTOTAL\n \n \n \n \nR$ 11.600,00\n \nTermo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 12\n\n[página 13]\n10."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0010",
+      "secao": "5. MODELO DE GESTÃO DO CONTRATO",
+      "texto": "5. MODELO DE GESTÃO DO CONTRATO"
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0053",
+      "secao": "DAS OBRIGAÇÕES DA CONTRATADA",
+      "texto": "DAS OBRIGAÇÕES DA CONTRATADA"
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0022",
+      "secao": "6.3. O recebimento definitivo ocorrerá no prazo de 30 dias úteis, a contar do recebimento da nota fiscal ou",
+      "texto": "6.3. O recebimento definitivo ocorrerá no prazo de 30 dias úteis, a contar do recebimento da nota fiscal ou\ninstrumento de cobrança equivalente pela Administração, após a verificação da qualidade e quantidade do\nmaterial e consequente aceitação mediante termo detalhado."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0048",
+      "secao": "8.2. O fornecimento do objeto será parcelado.",
+      "texto": "8.2. O fornecimento do objeto será parcelado."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0001",
+      "secao": "1. OBJETO",
+      "texto": "1. OBJETO\n1.1 Ata de registro de preços para a aquisição de \nSuprimentos para a confecção de\ncrachás, \nconforme especificações e condições previstas neste instrumento e seus Anexos;\n \nLote 1\nItem\nDescritivo\nUnidade de medida\nQuantidade\nI\nCartões em PVC\nUnidade\n3000\nII\nCartões \nsmartcard\nUnidade\n3000\nIII\nSuportes rígidos para crachás\nUnidade\n3000\n \n Lote 2\nItem\nDescritivo\nUnidade de medida\nQuantidade\nI\nCordões serigrafados com clips\nUnidade\n3000\nII\nPresilhas tipo jacaré\nUnidade\n3000\n \n Lote 3\nItem\nDescritivo\nUnidade de medida\nQuantidade\nI\nRibbons\nUnidade\n30\nII\nKit \nRibbon \nde limpeza\nUnidade\n10\n \n1.2 Os bens do objeto desta contratação são caracterizados como comuns, não se enquadrando como bens\nde luxo, conforme Decreto n° 10.818, de 27 de setembro de 2021.\n1.3 \nO prazo de vigência da ata de registro de preços será de 1 (um) ano, contado a \npartir da assinatura,\ncabendo prorrogação por igual período, desde que comprovada a \nvantajosidade.\n1.3.1 Na hipótese de prorrogação, os quantitativos poderão ser aditados até o limite do originalmente\nTermo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 1\n\n[página 2]\nprevisto para a vigência inicial.\n1.4 A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a\neficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua\nassinatura."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0047",
+      "secao": "8.1. O fornecedor será selecionado por meio da realização de procedimento de Licitação, na modalidade",
+      "texto": "8.1. O fornecedor será selecionado por meio da realização de procedimento de Licitação, na modalidade\nPregão, sob a forma eletrônica, com adoção do critério de julgamento pelo Menor Preço.\n \nForma de fornecimento"
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0032",
+      "secao": "6.12. Não havendo regularização ou sendo a defesa considerada improcedente, o Contratante deverá",
+      "texto": "6.12. Não havendo regularização ou sendo a defesa considerada improcedente, o Contratante deverá\ncomunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência do\nContratado, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os\nmeios pertinentes e necessários para garantir o recebimento de seus créditos."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0016",
+      "secao": "5.6. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade do Contratado,",
+      "texto": "5.6. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade do Contratado,\ninclusive perante terceiros, por qualquer irregularidade, ainda que resultante de imperfeições técnicas,\nvícios redibitórios, ou emprego de material inadequado ou de qualidade inferior e, na ocorrência desta, não\nimplica corresponsabilidade do Contratante ou de seus agentes, gestores e fiscais, de conformidade.\n5.7 O Fiscal comunicar-se-á com a empresa mediante e-mail.\n \nGestão do contrato"
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0012",
+      "secao": "5.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução",
+      "texto": "5.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução\nserá prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante\nsimples apostila."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0017",
+      "secao": "5.7. Cabe ao gestor do contrato:",
+      "texto": "5.7. Cabe ao gestor do contrato:\nTermo de Referência / Projeto Básico 4129909 SEI 000003351-01.00/26-7 / pg. 8\n\n[página 9]\n5.7.1. coordenar a atualização do processo de acompanhamento e fiscalização do contrato contendo todos\nos registros formais da execução no histórico de gerenciamento do contrato, a exemplo da ordem de\nserviço, do registro de ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com\nvistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da\nadministração.\n5.7.2 acompanhar os registros realizados pelos fiscais do contrato, de todas as ocorrências relacionadas à\nexecução do contrato e as medidas adotadas, informando, se for o caso, à autoridade superior àquelas que\nultrapassarem a sua competência.\n5.7.3 acompanhar a manutenção das condições de habilitação da contratada, para fins de empenho de\ndespesa e pagamento, e anotará os problemas que obstem o fluxo normal da liquidação e do pagamento da\ndespesa no relatório de riscos eventuais.\n5.7.4 emitir documento comprobatório da avaliação realizada pelos fiscais quanto ao cumprimento de\nobrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado\nnos indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar\ndo cadastro de atesto de cumprimento de obrigações."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0011",
+      "secao": "5.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as",
+      "texto": "5.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as\nnormas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou\nparcial."
+    },
+    {
+      "chunk_id": "88243688000181-1-000049-2026#c0044",
+      "secao": "7.1. Se a adjudicatária inadimplir as obrigações assumidas, no todo ou em parte, ficará sujeita às sanções",
+      "texto": "7.1. Se a adjudicatária inadimplir as obrigações assumidas, no todo ou em parte, ficará sujeita às sanções\nprevistas na Lei Federal nº 14.133/2021, assim como ao pagamento de multa nos seguintes termos:\n7.1.1 pelo atraso em relação ao prazo estipulado para a entrega do objeto: 0,5% do valor total da aquisição,\npor dia decorrido, até o limite máximo de 10 (dez) dias de atraso, após o que valerá a regra 7.1.2 deste\nsubitem;\n7.1.2 se o atraso referido na alínea \"a\" for superior a 10 (dez) dias, o percentual de multa a ser calculado\ndurante todo período (desde o 1º dia de atraso), será de 0,75% ao dia, até o limite máximo de 20 (vinte)\ndias de atraso, após o que valerá a regra 7.1.3 deste subitem;\n7.1.3 se o atraso referido na alínea \"b\" for superior a 20 (vinte) dias, o percentual de multa a ser calculado\ndurante todo período (desde o 1º dia de atraso), será de 1,0% ao dia, até o limite máximo de 30 (trinta) dias\nde atraso, após o que restará configurada a inexecução contratual, com aplicação das penalidades\nincidentes no caso e aplicação da multa prevista no ponto 7.1.5 deste subitem;\n7.1.4 nos casos de inexecução parcial, execução imperfeita ou negligência no fornecimento do objeto: 10%\ndo valor total do objeto. Tal sanção será aplicada, também, no caso de recusa do fornecedor em substituir"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 3945,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.058,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

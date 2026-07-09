@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.env
+
+# Dados brutos (PDFs grandes) — reproduzíveis via `make coletar` + data/data_card.md (SHA256)
+data/raw/
+
+# Índices vetoriais (reproduzíveis via `make indexar`)
+data/indices/
+
+# Cache de modelos de embedding
+.cache/
+local_cache/

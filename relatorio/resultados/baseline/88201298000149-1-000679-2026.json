@@ -1,0 +1,15 @@
+{
+  "id_edital": "88201298000149-1-000679-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": 500000.0,
+    "modalidade": "pregao eletronico",
+    "objeto": "Sistema de Registro de Preços para possíveis aquisições de 5 veículos ZERO KM.",
+    "orgao_responsavel": "SECRETARIA MUNICIPAL DE SAÚDE HORÁRIO",
+    "uf": "DF",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "01 anos"
+  },
+  "latencia_s": 0.0261,
+  "executor": "baseline_regex"
+}

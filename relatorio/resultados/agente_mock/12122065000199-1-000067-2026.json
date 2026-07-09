@@ -1,0 +1,242 @@
+{
+  "id_edital": "12122065000199-1-000067-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "concorrencia",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": "MA",
+      "chunks_evidencia": [
+        "12122065000199-1-000067-2026#c0016"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "12122065000199-1-000067-2026#c0031"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0016",
+      "secao": "6.DO PREENCHIMENTO DA PROPOSTA",
+      "texto": "bilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração sob alegação de \nerro, omissão ou qualquer outro pretexto. \n6.5.O prazo de validade da proposta é fixado em 60 (sessenta) dias, a contar da data de sua apresentação. \n6.6.Os licitantes devem respeitar os preços máximos estabelecidos nas normas de regência de contratações \npúblicas, quando participarem de licitações públicas. \n6.7.Comprovação no momento da apresentação da proposta, do recolhimento de quantia equivalente a 1% (um \npor cento) do valor estimado da contratação, a título de garantia de proposta, como requisito de pré-\nhabilitação - conforme permissivo do Art. 58, § 1º da Lei Federal 14.133/21; \n6.8.A garantia de proposta poderá ser prestada em conformidade com o Art. 96, § 1º da Lei 14.133/21. \n6.9.Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão de exclusiva \nresponsabilidade do licitante, não lhe assistindo o direito de pleitear qualquer alteração, sob alegação de \nerro, omissão ou qualquer outro pretexto. \nModalidades de garantia: O contratado pode escolher entre caução em dinheiro ou títulos da dívida pública, \nseguro-garantia ou fiança bancária. \nCaução: A caução pode ser feita em dinheiro ou em títulos da dívida pública emitidos sob forma escritural,"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0029",
+      "secao": "8.DA ACEITABILIDADE DA PROPOSTA",
+      "texto": "strada em ata; - O \nAgente de Contratações poderá convocar o licitante para enviar documento digital complementar, por meio \nde funcionalidade disponível no sistema, no prazo de até 24 (vinte e quatro) horas, sob pena de não \naceitação da proposta. \n8.5.O prazo estabelecido poderá ser prorrogado pelo Agente de Contratações por solicitação escrita e justificada \ndo licitante, formulada antes de findo o prazo, e formalmente aceita pelo Agente de Contratações. \n8.6.Dentre os documentos passíveis de solicitação pelo Agente de Contratações, destacam-se os que \ncontenham as características do material ofertado, tais como: marca, modelo, tipo, fabricante e procedência, \nalém de outras informações pertinentes, a exemplo de catálogos, folhetos ou propostas, encaminhados por \nmeio eletrônico, ou, se for o caso, por outro meio e prazo indicados pelo Agente de Contratações, sem \nprejuízo do seu ulterior envio pelo sistema eletrônico, sob pena de não aceitação da proposta. \n8.7.Se a proposta ou lance vencedor for desclassificado, o Agente de Contratações examinará a proposta ou \nlance subsequente, e, assim sucessivamente, na ordem de classificação. \n8.7.1.Se tratando de Lote, a desclassificação de um único item do lote implicará na desclassificação da proposta \npara todo o lote, ou seja, a proposta somente será aceita se atender aos requisitos para todos os itens que \ncompõem o lote."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0027",
+      "secao": "7.DA ABERTURA DA SESSÃO PÚBLICA, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DOS",
+      "texto": "e apresentação pelos licitantes é utilizada como um dos critérios de classificação, de maneira que \nsó poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase \nfechada do modo de disputa aberto e fechado. \n7.28.Havendo eventual empate entre propostas ou lances, o critério de desempate será aquele previsto no art. \n60 da Lei nº 14.133/2021. \n7.29.Encerrada a etapa de envio de lances da sessão pública, o Agente de Contratações deverá encaminhar,\n\n[página 9]\n__________________________________________________________________________ \nAv. Militar, s/nº - Vila do BEC – Zé Doca – MA - CNPJ: 12.122.065/0001-99 \n \npelo sistema eletrônico, contraproposta ao licitante que tenha apresentado o melhor preço, para que seja \nobtida melhor proposta, vedada a negociação em condições diferentes das previstas neste Edital. \n7.30.A negociação será realizada por meio do sistema, podendo ser acompanhada pelos demais licitantes. \n7.31.Após a negociação do preço, o Agente de Contratações iniciará a fase de aceitação e julgamento da \nproposta."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0011",
+      "secao": "5.DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO",
+      "texto": "5.DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO \n5.1.Os licitantes encaminharão, exclusivamente por meio do sistema, concomitantemente com os documentos \nde habilitação exigidos no edital, proposta com a descrição do objeto ofertado e o preço, até a data e o \nhorário estabelecidos para abertura da sessão pública, quando, então, encerrar-se-á automaticamente a \netapa de envio dessa documentação. \n5.2.O envio da proposta, acompanhada dos documentos de habilitação exigidos neste Edital, ocorrerá por meio \nde chave de acesso e senha intransferíveis. \n5.3.As Microempresas e Empresas de Pequeno Porte deverão encaminhar a documentação de habilitação, \nainda que haja alguma restrição de regularidade fiscal e trabalhista, nos termos do art. 43, § 1º da LC nº \n123, de 2006. \n5.4.Incumbirá ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública da \nlicitação, ficando responsável pelo ônus decorrente da perda de negócios, diante da inobservância de \nquaisquer mensagens emitidas pelo sistema ou de sua desconexão. \n5.5.Até a abertura da sessão pública, os licitantes poderão retirar ou substituir a proposta e os documentos de \nhabilitação anteriormente inseridos no sistema; \n5.6.Não será estabelecida, nessa etapa do certame, ordem de classificação entre as propostas apresentadas,"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0026",
+      "secao": "7.DA ABERTURA DA SESSÃO PÚBLICA, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DOS",
+      "texto": "trarem na \nfaixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas empatadas \ncom a primeira colocada. \n7.24.A melhor classificada nos termos do item anterior terá o direito de encaminhar uma última oferta para \ndesempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo disposto e controlado pelo \nsistema, contados após a comunicação automática para tanto. \n7.25.Caso a microempresa ou a empresa de pequeno porte melhor classificada desista ou não se manifeste no \nprazo estabelecido, serão convocadas as demais licitantes microempresas e empresas de pequeno porte \nque se encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do \nmesmo direito, no prazo estabelecido no subitem anterior. \n7.26.No caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que \nse encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre elas para \nque se identifique aquela que primeiro poderá apresentar melhor oferta. \n7.27.A ordem de apresentação pelos licitantes é utilizada como um dos critérios de classificação, de maneira que \nsó poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances finais da fase \nfechada do modo de disputa aberto e fechado."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0081",
+      "secao": "25.DA AMPLIAÇÃO E /OU REDUÇÃO",
+      "texto": "25.DA AMPLIAÇÃO E /OU REDUÇÃO \n25.1.O contratado fica obrigado a aceitar nas mesmas condições propostas, os acréscimos e supressões que se \nfizerem necessários de até 25% (vinte e cinco por cento) nos termos do art. 125 da Lei Federal nº"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0101",
+      "secao": "3.1 – O valor global para os serviços, objeto deste contrato é de R$ _______________________",
+      "texto": "3.1 – O valor global para os serviços, objeto deste contrato é de R$ _______________________ \n(__________________________________________________). \n3.2 O CONTRATANTE pagará à CONTRATADA mensalmente através de boletim de medição e demais \ndocumentos pertinentes."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0175",
+      "secao": "REFORMA DO MATADOURO PÚBLICO MUNICIPAL DO MUNICÍPIO DE ZÉ",
+      "texto": "REFORMA DO MATADOURO PÚBLICO MUNICIPAL DO MUNICÍPIO DE ZÉ \nDOCA (MA).\nItem Código Banco Descrição Und Quant. Valor Unit Valor Unit \ncom BDI\nTotal Peso (%)\n 1 SERVIÇOS PRELIMINARES 1 29.157,43 29.157,43 2,25 %"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0058",
+      "secao": "15.DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO",
+      "texto": "15.DA ADJUDICAÇÃO E DA HOMOLOGAÇÃO \n15.1.O objeto da licitação será adjudicado ao licitante declarado vencedor, por ato da autoridade competente, \ncaso não haja interposição de recurso, ou pela mesma autoridade competente, após a regular decisão dos \nrecursos apresentados. \n15.2.Após a fase recursal, constatada a regularidade dos atos praticados, a autoridade competente homologará \no procedimento licitatório."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0060",
+      "secao": "16.DO CONTRATO",
+      "texto": "strumento, reservando-se o CONTRATANTE, o \ndireito de convocar as licitantes remanescentes, na ordem de classificação, para fazê-lo em igual prazo e \nnas mesmas condições propostas pela primeira classificada, inclusive quanto ao preço, ou revogar a \nlicitação, independentemente das sanções previstas para a licitante vencedora neste instrumento. \n16.5.Nos termos do art. 96 da Lei Federal 14.133/2021, como condição para assinatura do contrato, o licitante \ndeverá apresentar SEGURO GARANTIA no valor referente a 5% (cinco por cento) do valor vencedor da \nlicitação. Caberá ao contratado optar por uma das seguintes modalidades de garantia: \n - CAUÇÃO em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante registro \nem sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados \npor seus valores econômicos, conforme definido pelo Ministério da Economia; \n- SEGURO-GARANTIA; \n- FIANÇA BANCÁRIA emitida por banco ou instituição financeira devidamente autorizada a operar no País \npelo Banco Central do Brasil."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0052",
+      "secao": "11.12. Nos termos do artigo 58 da Lei Federal n.º 14.133/2021, a Garantia da Proposta, limitada a 1% (um intei",
+      "texto": "stos na Lei Complementar n. 123/2006, estará dispensado (a) da prova de \ninscrição nos cadastros de contribuintes estadual e municipal. \n11.17.A existência de restrição relativamente à regularidade fiscal não impede que a licitante qualificada como \nmicroempresa ou empresa de pequeno porte seja declarada vencedora, uma vez que atenda a todas as \ndemais exigências do edital. \n11.17.1.A declaração do vencedor acontecerá no momento imediatamente posterior à fase de habilitação. \n11.18.Caso a proposta mais vantajosa seja ofertada por licitante qualificada como microempresa ou empresa de \npequeno porte, e uma vez constatada a existência de alguma restrição no que tange à regularidade fiscal, \na mesma será convocada para, no prazo de 5 (cinco) dias úteis, após a declaração do vencedor, comprovar \na regularização. O prazo poderá ser prorrogado por igual período, a critério da administração pública, \nquando requerida pelo licitante, mediante apresentação de justificativa. \n11.19.A não-regularização fiscal e trabalhista no prazo previsto no subitem anterior acarretará a inabilitação do \nlicitante, sem prejuízo das sanções previstas neste Edital, sendo facultada a convocação dos licitantes \nremanescentes, na ordem de classificação. Se, na ordem de classificação, seguir-se outra microempresa,"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0023",
+      "secao": "7.DA ABERTURA DA SESSÃO PÚBLICA, CLASSIFICAÇÃO DAS PROPOSTAS E FORMULAÇÃO DOS",
+      "texto": "diatamente informados do seu recebimento e do valor consignado no registro. \n7.8.O lance deverá ser ofertado pelo valor global proposto. \n7.9.Os licitantes poderão oferecer lances sucessivos, observando o horário fixado para abertura da sessão e as \nregras estabelecidas no Edital. \n7.10.O licitante somente poderá oferecer lance de valor inferior ao último por ele ofertado e registrado pelo \nsistema. \n7.11.O intervalo mínimo de diferença de valores entre os lances, que incidirá tanto em relação aos lances \nintermediários quanto em relação à proposta que cobrir a melhor oferta deverá ser de no mínimo R$ 1,00 \n(um real). \n7.12.Será adotado o modo de disputa aberto e fechado, em que os licitantes apresentarão lances públicos e \nsucessivos. \n7.13.A etapa competitiva, de envio de lances na sessão pública, durará dez minutos, com prorrogações \nsucessivas a partir dos dois minutos finais sempre que houver lance. \n7.14.Encerrados os prazos estabelecidos nos itens “9.12” e “9.13”, o sistema ordenará os lances em ordem \ncrescente de vantajosidade. \n7.15.Na hipótese de o sistema eletrônico desconectar para o Agente de Contratações no decorrer da etapa de \nenvio de lances da sessão pública e permanecer acessível aos licitantes, os lances continuarão sendo \nrecebidos, sem prejuízo dos atos realizados."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0084",
+      "secao": "27.DISPOSIÇÕES GERAIS",
+      "texto": "27.DISPOSIÇÕES GERAIS\n\n[página 26]\n__________________________________________________________________________ \nAv. Militar, s/nº - Vila do BEC – Zé Doca – MA - CNPJ: 12.122.065/0001-99 \n \n27.1.Homologada a licitação o adjudicatário receberá a Ordem de Serviços para o início da obra. \n27.2.Caso o adjudicatário não preste o serviço ou forneça o(s) bem(s), objeto do certame, de acordo com a sua \nproposta, serão convocados os licitantes remanescentes, observada à ordem de classificação, para \nexecução do serviço. \n27.3.É facultado ao AGENTE DE CONTRATAÇÕES ou a AUTORIDADE COMPETENTE, em qualquer fase do \njulgamento promover diligência destinada a esclarecer ou complementar a instrução do processo e a \naferição do ofertado, bem como solicitar a órgãos competentes a elaboração de pareceres técnicos \ndestinados a fundamentar as decisões. \n27.4.Qualquer solicitação de prorrogação de prazo para execução dos serviços, decorrentes desta licitação, \nsomente será analisada se apresentada antes do decurso do prazo para tal e devidamente fundamentada. \n27.5.Uma vez convocado, a recusa injustificada do adjudicatário em prestar os serviços, dentro do prazo \nestabelecido neste edital, caracteriza o descumprimento total da obrigação assumida, sujeitando-o às \npenalidades legalmente estabelecidas"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0123",
+      "secao": "CÓDIGO ESPECIFICAÇÃO",
+      "texto": "CÓDIGO ESPECIFICAÇÃO"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0031",
+      "secao": "9.DO JULGAMENTO DA PROPOSTA",
+      "texto": "9.DO JULGAMENTO DA PROPOSTA \n9.1.Para julgamento, será adotado o critério de MENOR PREÇO GLOBAL, observados o valor máximo aceitável \npara adjudicação, os prazos para fornecimento, as especificações técnicas, parâmetros mínimos de \ndesempenho e qualidade e demais condições definidas neste Edital. \nO Agente de Contratações anunciará o licitante detentor da proposta ou lance de menor valor imediatamente \napós a fase de aceitação das propostas ou, quando for o caso, após negociação e decisão pelo Agente de \nContratações acerca da aceitação do lance de menor valor. \n9.2.Se a proposta de menor valor não for aceitável ou se o licitante desatender às exigências de habilitação, o \nAgente de Contratações poderá examinar a proposta subsequente, verificando a sua aceitabilidade e \nverificando as condições de habilitação do proponente, na ordem de classificação, ordenada e \nsucessivamente, até a apuração de uma proposta que atenda ao edital, sendo o respectivo licitante \ndeclarado vencedor. \n9.3.No caso de discordância entre valores numéricos e por extenso, prevalecerão estes últimos e, entre preços \nunitários e totais, os primeiros. \n9.4.Serão desclassificadas as propostas que conflitem com as normas deste Edital ou da legislação em vigor. \n9.5.Serão desclassificadas as propostas que: \n9.5.1.Contiverem vícios insanáveis;"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0035",
+      "secao": "9.DO JULGAMENTO DA PROPOSTA",
+      "texto": "tens 8.6 e 8.7 não prejudicarão a aplicação do disposto no art. 44 da Lei \nComplementar nº 123, de 14 de dezembro de 2006. \n9.12.Definido o resultado do julgamento, a Administração poderá negociar condições mais vantajosas com o \nprimeiro colocado. \n9.13.A negociação poderá ser feita com os demais licitantes, segundo a ordem de classificação inicialmente \nestabelecida, quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua \nproposta permanecer acima do preço máximo definido pela Administração. \n9.14.A negociação será conduzida pelo agente de contratação ou comissão de contratação, na forma de \nregulamento, e, depois de concluída, terá seu resultado divulgado a todos os licitantes e anexado aos autos \ndo processo licitatório"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0001",
+      "secao": "1.– PREÂMBULO:",
+      "texto": "1.– PREÂMBULO: \n1.1.A PREFEITURA MUNICIPAL DE ZÉ DOCA , torna público, para conhecimento dos interessados, que \nrealizará licitação na modalidade CONCORRÊNCIA, na forma ELETRÔNICA, do tipo MENOR PREÇO, \njulgamento GLOBAL, através de execução indireta, no regime de empreitada por preço unitário, objetivando \na contratação especificada no subitem 2.1 deste edital, nos termos da Lei Federal nº 14.133 de 01 de abril \nde 2021, Lei Complementar 123 de 14 de dezembro de 2006 e suas alterações posteriores e as exigências \nestabelecidas neste edital e seus anexos. \n \n1.2.Os trabalhos serão conduzidos por servidor designado, denominado Agente de Contratação, mediante a \ninserção e monitoramento de dados gerados ou transferidos diretamente para a página eletrônica Licita Zé \nDoca, disponível em https://licitanet.com.br o servidor terá, dentre outras, as seguintes atribuições: \ncoordenar o processo licitatório; receber, examinar e decidir as impugnações e consultas ao edital, apoiado \npela sua equipe responsável pela sua elaboração; conduzir a sessão pública na internet; verificar a \nconformidade da proposta com os requisitos estabelecidos neste edital; dirigir a etapa de lances; verificar e \njulgar as condições de habilitação; receber, examinar e decidir os recursos, encaminhando à autoridade"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0116",
+      "secao": "5.1 - O contrato terá vigência de 12 (doze) meses, podendo este, ter seu prazo prorrogado ou ser rescindido",
+      "texto": "5.1 - O contrato terá vigência de 12 (doze) meses, podendo este, ter seu prazo prorrogado ou ser rescindido \nse assim for da vontade das partes, na conformidade do estabelecido na Lei nº 14.133/21."
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0159",
+      "secao": "CLÁUSULA DÉCIMA QUINTA - CONTAGEM DOS PRAZOS",
+      "texto": "CLÁUSULA DÉCIMA QUINTA - CONTAGEM DOS PRAZOS \nNa contagem dos prazos estabelecidos neste contrato excluir-se-á o dia do início e incluir-se-á o do\n\n[página 36]\n__________________________________________________________________________ \nAv. Militar, s/nº - Vila do BEC – Zé Doca – MA - CNPJ: 12.122.065/0001-99 \n \nvencimento, e considerar-se-ão os dias consecutivos, exceto quando for explicitamente disposto em \ncontrário. Só se iniciam e vencem os prazos referidos neste contrato em dia de expediente na sede do"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0091",
+      "secao": "MINUTA DO CONTRATO",
+      "texto": "MINUTA DO CONTRATO \n \nContrato nº ____/2026 \nProcesso Administrativo nº _____/2026 \nCONCORRÊNCIA ELETRÔNICA nº _____/2026-CPL/ZÉ DOCA"
+    },
+    {
+      "chunk_id": "12122065000199-1-000067-2026#c0036",
+      "secao": "10.DO ENCAMINHAMENTO DA PROPOSTA READEQUADA",
+      "texto": "10.DO ENCAMINHAMENTO DA PROPOSTA READEQUADA \n10.1.A Planilha Atualizada deverá ser anexada após o término da sessão de lances e deverá estar assinada pelo \nrepresentante legal da empresa e por seu responsável técnico. Será concedido um prazo de até 24 horas, \nsob pena de desclassificação do licitante em caso de não envio dentro do prazo estabelecido."
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 6558,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.082,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

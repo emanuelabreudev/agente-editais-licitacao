@@ -1,0 +1,47 @@
+{
+  "n_editais": 16,
+  "modalidades": {
+    "Pregão - Eletrônico": 6,
+    "Concorrência - Eletrônica": 6,
+    "Dispensa": 4
+  },
+  "ufs": {
+    "RS": 3,
+    "RR": 1,
+    "SP": 3,
+    "MA": 1,
+    "ES": 1,
+    "PA": 3,
+    "GO": 2,
+    "PI": 2
+  },
+  "orcamento_sigiloso_ou_ausente": 2,
+  "paginas": {
+    "media": 60.733333333333334,
+    "mediana": 35.0,
+    "max": 220
+  },
+  "caracteres": {
+    "media": 125528.25,
+    "mediana": 73390.5,
+    "min": 535,
+    "max": 383283
+  },
+  "metodos_extracao": {
+    "docx": 1,
+    "pypdf": 15
+  },
+  "chunks": {
+    "total": 8333,
+    "por_edital_media": 520.8125
+  },
+  "gt_verificavel_no_texto_pct": {
+    "prazo_entrega_proposta": 0.571,
+    "valor_estimado": 0.429,
+    "modalidade": 0.938,
+    "objeto": 1.0,
+    "orgao_responsavel": 1.0,
+    "uf": 0.875,
+    "criterio_julgamento": 0.812
+  }
+}

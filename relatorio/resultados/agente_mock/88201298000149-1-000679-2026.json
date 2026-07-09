@@ -1,0 +1,247 @@
+{
+  "id_edital": "88201298000149-1-000679-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": 500000.0,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "modalidade": {
+      "valor": "pregao eletronico",
+      "chunks_evidencia": [
+        "88201298000149-1-000679-2026#c0067"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "88201298000149-1-000679-2026#c0001"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0019",
+      "secao": "6. PROPOSTA:",
+      "texto": "6. PROPOSTA:\n6.1. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar da data de abertura da sessão do pregão, estabelecida no preâmbulo desse edital.\n6.2. Os licitantes deverão registrar suas propostas no sistema eletrônico, mediante o preenchimento dos seguintes campos:"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0049",
+      "secao": "14. VERIFICAÇÃO DA HABILITAÇÃO:",
+      "texto": "beleça vínculo à proposta de outro licitante;\n14.9. As Certidões que não possuírem prazo de validade, somente serão aceitas com data de emissão não superior a 90 (noventa) dias consecutivos de antecedência da data de abertura da sessão deste Pregão;\n14.10.Constatado o atendimento às exigências estabelecidas no Edital, o licitante será declarado vencedor, oportunizando-se a manifestação da intenção de recurso."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0047",
+      "secao": "14. VERIFICAÇÃO DA HABILITAÇÃO:",
+      "texto": "a sua regularidade, em 5 (cinco) dias úteis, prazo que poderá ser prorrogado uma única vez, por igual período, a critério da Administração, desde que seja requerido pelo interessado, de forma motivada e durante o transcurso do respectivo prazo.\n14.8. Na hipótese de a proposta vencedora não for aceitável ou o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao edital.\nA proposta final do licitante declarado vencedor deverá ser encaminhada no prazo de até 02 (duas) horas, a contar da solicitação do Pregoeiro no sistema eletrônico e deverá:\na) Ser redigida em língua portuguesa, digitada, em uma via, sem emendas, rasuras, entrelinhas ou ressalvas, devendo ser assinada pelo licitante ou seu representante legal;\nb) Conter a indicação do banco, número da conta e agência do licitante vencedor, para fins de pagamento;\nc) A proposta final deverá ser documentada nos autos e será levada em consideração no decorrer da execução do contrato e aplicação de eventual sanção à Contratada, se for o caso;\nd) Todas as especificações do objeto contidas na proposta, tais como, validade da proposta, marca, modelo, tipo, fabricante e procedência, vinculam a Contratada;"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0067",
+      "secao": "20. PEDIDOS DE ESCLARECIMENTOS E IMPUGNAÇÕES:",
+      "texto": "20. PEDIDOS DE ESCLARECIMENTOS E IMPUGNAÇÕES:\n20.1. Os pedidos de esclarecimentos referentes ao processo licitatório e os pedidos de impugnações poderão ser enviados ao pregoeiro, até três dias úteis anteriores à data fixada para abertura da sessão pública, por meio do seguinte endereço eletrônico: https://pregaobanrisul.com.br/\n20.2. As respostas aos pedidos de esclarecimentos e às impugnações serão divulgadas no seguinte sítio eletrônico https://pregaobanrisul.com.br/;"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0112",
+      "secao": "10. ADEQUAÇÃO ORÇAMENTÁRIA",
+      "texto": "10. ADEQUAÇÃO ORÇAMENTÁRIA\nA presente contratação possui adequação orçamentária para sua realização, à conta da classificação orçamentária 10.01.10.301.0225.1.040 – aquisição de veículos – 1196 – 4.4.90.52.00.00.00 – 1.600, natureza de despesa 4.4.90.52.00.00.00, referente a equipamento e material permanente.\nA dotação atualizada informada para atendimento da despesa é de R$ 500.000,00, valor compatível com o montante estimado da contratação, também fixado em R$ 500.000,00.\nNessa condição, a contratação encontra respaldo orçamentário suficiente, sem prejuízo da emissão da competente reserva, pré-empenho e empenho, conforme a execução da despesa e as regras de gestão orçamentária e financeira do órgão.\nCaso, no momento da contratação decorrente da ata de registro de preços, seja verificada insuficiência superveniente de saldo orçamentário, a Administração deverá adotar previamente as providências necessárias para suplementação ou abertura de crédito adicional, na forma da legislação aplicável, antes da assunção da obrigação contratual."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0093",
+      "secao": "5. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO",
+      "texto": "5. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO\nA estimativa do valor da contratação deverá observar o disposto no art. 23 da Lei nº 14.133/2021, mediante prévia pesquisa de preços realizada com base em parâmetros idôneos, combinados ou não, aptos a demonstrar o valor de mercado do objeto.\nPara bens comuns como veículos automotores, a metodologia poderá contemplar, entre outras fontes: painéis de preços e bases oficiais disponíveis; contratações similares realizadas por outros órgãos e entidades públicas; pesquisa direta com fornecedores; sítios eletrônicos especializados ou de fabricantes/concessionárias; e demais referências públicas compatíveis com as especificações técnicas exigidas.\nPara fins de composição do preço estimado, a unidade de medida adotada é unidade de veículo.\nO quantitativo previsto corresponde a 5 (cinco) unidades, tipo sedan, zero quilômetro, com as características mínimas estabelecidas neste Termo de Referência.\nA memória de cálculo resumida considera o valor unitário estimado de R$ 100.000,00 (cem mil reais) por veículo, resultando no montante global estimado de R$ 500.000,00 (quinhentos mil reais), conforme abaixo:\na) Quantidade estimada: 5 unidades;\nb) Valor unitário estimado: R$ 100.000,00;\nc) Valor total estimado: R$ 500.000,00."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0151",
+      "secao": "VALOR TOTAL:",
+      "texto": "VALOR TOTAL:"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0119",
+      "secao": "VALOR TOTAL:",
+      "texto": "VALOR TOTAL:"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0038",
+      "secao": "11. MODO DE DISPUTA:",
+      "texto": "11. MODO DE DISPUTA:\n11.1. Será adotado o modo de disputa aberto, em que os licitantes apresentarão lances públicos e sucessivos, observando as regras constantes no item 9.\n11.2. Na fase de lances, o pregoeiro poderá, em consequência da quantidade de itens do pregão, no início da fase de lances de cada lote ou item, estabelecer uma quantidade aproximada entre dois e dez itens, para a disputa simultânea;\n11.3. A etapa competitiva, de envio de lances na sessão pública, durará 10 (dez) minutos e, após isso, será prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração da sessão pública.\n11.4. A prorrogação automática da etapa de envio de lances será de dois minutos e ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive quando se tratar de lances intermediários."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0053",
+      "secao": "16. ENCERRAMENTO DA LICITAÇÃO:",
+      "texto": "16. ENCERRAMENTO DA LICITAÇÃO:\n16.1. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior, que poderá:\na) Determinar o retorno dos autos para saneamento de irregularidades;\nb) Revogar a licitação por motivo de conveniência e oportunidade;\nc) Proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente ilegalidade insanável;\nd) Adjudicar o objeto e homologar a licitação."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0069",
+      "secao": "21.6. Uma vez incluído no processo licitatório, nenhum documento será devolvido;",
+      "texto": "21.6. Uma vez incluído no processo licitatório, nenhum documento será devolvido;\n21.7. Na análise da documentação e no julgamento das Propostas Comerciais, o Pregoeiro poderá, a seu critério, solicitar o assessoramento técnico de órgãos ou de profissionais especializados;\n21.8. A participação do licitante nesta licitação implica no conhecimento integral dos termos e condições inseridas neste edital, bem como das demais normas legais que disciplinam a matéria;\n21.9. A presente licitação não importa, necessariamente, em contratação, podendo o Município de Lavras do Sul revogá-la, no todo ou em parte, por razões de interesse público, derivadas de fato superveniente comprovado, ou anulá-la por ilegalidade, de ofício ou por provocação, mediante ato escrito e fundamentado, disponibilizado no sistema para conhecimento dos licitantes;\n21.10.Toda a documentação apresentada neste edital e seus anexos são complementares entre si, de modo que qualquer detalhe que se mencione em um documento e se omita em outro será considerado especificado e válido;\n21.11.Fica eleito o Foro da Comarca de Lavras do Sul para dirimir quaisquer litígios oriundos da licitação e do contrato dela decorrente, com expressa renúncia a outro qualquer, por mais privilegiado que seja.\n21.12.Integra este Edital, para todos os fins e efeitos, o(s) seguinte(s) anexo(s):"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0044",
+      "secao": "13.4. Não serão consideradas, para julgamento das propostas, vantagens não previstas no edital.",
+      "texto": "13.4. Não serão consideradas, para julgamento das propostas, vantagens não previstas no edital.\n13.5. Será desclassificada a proposta ou o lance vencedor, que apresentar preço final superior ao preço máximo fixado, ou que apresentar preço manifestamente inexequível;\n13.6. O Pregoeiro poderá convocar o licitante para enviar documento digital complementar, por meio de funcionalidade disponível no sistema, no prazo de 02 (duas) horas, sob pena de não aceitação da proposta.\n13.7. O prazo estabelecido poderá ser prorrogado pelo Pregoeiro por solicitação escrita e justificada do licitante, formulada antes de findo o prazo, e formalmente aceito pelo Pregoeiro;"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0056",
+      "secao": "17. DO REGISTRO DE PREÇOS:",
+      "texto": "os no mercado ou de fato que eleve o custo dos bens registrados, cabendo ao órgão gerenciador promover as negociações junto aos fornecedores, observadas as disposições contidas na alínea “d” do inciso II do caput do art. 124 da Lei 14133/2021;\n17.11. Homologado o resultado da licitação, o Órgão Gerenciador, respeitada a ordem de classificação e a quantidade de Detentores a terem preços registrados, convocará os representantes para assinatura da Ata de Registro de Preços que, após cumpridos os requisitos de publicidade, terá efeito de compromisso de fornecimento nas condições estabelecidas;\n17.12.A contratação com os Detentores da Ata será formalizada por intermédio de instrumento contratual ou emissão de nota de EMPENHO de despesa, observado o disposto no art. 95 da Lei nº 14.133/2021;\n17.13.A Ata de Registro de Preços poderá sofrer alterações, obedecidas as disposições contidas no artigo 124 da Lei 14.133/2021;\n17.14.O Preço registrado poderá ser revisto em decorrência de eventual redução daqueles praticados no mercado, ou de fato que eleve o custo dos serviços ou bens registrados, cabendo ao Órgão Gerenciador da Ata promover as necessárias negociações junto aos Detentores a Ata;\n17.15.Quando o preço inicialmente registrado, por motivo superveniente, torna-se superior o preço praticado no mercado, o Órgão Gerenciador deverá:"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0075",
+      "secao": "TERMO DE REFERÊNCIA",
+      "texto": "TERMO DE REFERÊNCIA"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0022",
+      "secao": "6.2.3. Fabricante;",
+      "texto": "6.2.3. Fabricante;\n6.2.4. Descrição detalhada do objeto, contendo as informações conforme à especificação do Termo de Referência: indicando, no que for aplicável, o modelo, prazo de validade ou de garantia, número do registro ou inscrição do bem no órgão competente, quando for o caso;"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0001",
+      "secao": "CRITÉRIO DE JULGAMENTO: MENOR PREÇO POR ITEM",
+      "texto": "CRITÉRIO DE JULGAMENTO: MENOR PREÇO POR ITEM"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0109",
+      "secao": "9. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR",
+      "texto": ".\nO critério de menor preço é pertinente ao objeto porque a Administração busca veículos com requisitos técnicos mínimos claramente definidos, não havendo predominância de fatores subjetivos de técnica que justifiquem julgamento por técnica e preço.\nA adoção desse critério favorece a objetividade da disputa, amplia a competitividade entre fornecedores aptos e viabiliza a seleção da proposta economicamente mais vantajosa, desde que atendidas integralmente as especificações exigidas.\n9.1 Habilitação jurídica\nDeverá ser exigida a documentação comprobatória da existência jurídica do licitante e de sua representação legal, nos termos da legislação aplicável, tais como ato constitutivo, estatuto ou contrato social em vigor, devidamente registrado, e documentos de eleição ou designação dos administradores, quando cabíveis.\n9.2 Regularidade fiscal, social e trabalhista\nDeverão ser exigidos os documentos de regularidade perante a Fazenda federal, estadual e municipal do domicílio ou sede do licitante, regularidade relativa à Seguridade Social e ao FGTS, bem como prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, na forma da legislação vigente.\n9.3 Qualificação técnico-operacional"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0041",
+      "secao": "12.1.2. Ocorrendo o empate, na forma do subitem anterior, proceder-se-á da seguinte forma:",
+      "texto": "12.1.2. Ocorrendo o empate, na forma do subitem anterior, proceder-se-á da seguinte forma:\na) A beneficiária detentora da proposta de menor valor será convocada via sistema para apresentar, no prazo de 5 (cinco) minutos, nova proposta, inferior àquela considerada, até então, de menor preço, situação em que será declarada vencedora do certame.\nb) Se a beneficiária, convocada na forma da alínea anterior, não apresentar nova proposta, inferior à de menor preço, será facultada, pela ordem de classificação, às demais microempresas, empresas de pequeno porte ou cooperativas remanescentes, que se enquadrarem na hipótese do item 12.1. Deste edital, a apresentação de nova proposta, no prazo previsto na alínea a deste item.\n12.1.3. O disposto no item 12.1.2. não se aplica às hipóteses em que a proposta de menor valor inicial tiver sido apresentado por beneficiária da Lei Complementar nº 123/2006.\n12.1.4. Se não houver licitante que atenda ao item 12.1 e seus subitens, serão utilizados os seguintes critérios de desempate, nesta ordem (conforme art. 60):\na) Disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo à classificação;\nb) Avaliação do desempenho contratual prévio dos licitantes, para a qual serão ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações decorrentes de outras contratações;"
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0152",
+      "secao": "CLÁUSULA TERCEIRA – PRAZO, FORMA E LOCAL DO PAGAMENTO:",
+      "texto": "CLÁUSULA TERCEIRA – PRAZO, FORMA E LOCAL DO PAGAMENTO:\n3.1. O prazo para fornecimento do objeto é de (...) dias, contados da assinatura do presente contrato, recebimento da ordem de fornecimento ou da nota de empenho correspondente, emitida pelo CONTRATANTE.\n3.2. A vigência deste contrato será pelo período de XX meses, com início em ___/____/_____ e término em ____/_____/____. A garantia terá validade de (...) meses, com início em ___/____/_____ e término em ___/____/_____.\n3.3. O objeto deverá ser entregue de acordo com previsto no edital e na proposta vencedora da licitação, no seguinte local:\n3.4. Este contrato poderá ser prorrogado por igual período, mediante demonstração de que as condições e os preços permanecem vantajosos para o CONTRATANTE, sendo permitidas eventuais negociações entre as partes."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0170",
+      "secao": "14.1. O objeto do presente contrato será recebido:",
+      "texto": "14.1. O objeto do presente contrato será recebido:\n14.1.1. Provisoriamente, de forma sumária, pelo responsável por seu acompanhamento e fiscalização, designado pelo CONTRATANTE, com verificação posterior da conformidade do material com as exigências contratuais. O recebimento provisório deverá ocorrer em até [...] dias úteis da entrega do objeto, pela CONTRATADA, mediante recibo.\n14.1.2. Definitivamente por servidor ou comissão designada pela autoridade competente, mediante assinatura de termo circunstanciado comprovando o atendimento das exigências contratuais. O recebimento definitivo ocorrerá depois de transcorrido o prazo de [...] dias úteis do recebimento provisório.\n14.2. O recebimento provisório ou definitivo não eximirá a CONTRATADA de eventual responsabilização em âmbito civil pela perfeita execução do contrato."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0160",
+      "secao": "9.2. O reequilíbrio econômico-financeiro poderá ser indicado pelo CONTRATANTE ou solicitado pela CONTRATADA.",
+      "texto": "9.2. O reequilíbrio econômico-financeiro poderá ser indicado pelo CONTRATANTE ou solicitado pela CONTRATADA.\n9.3. Em sendo solicitado o reequilíbrio econômico-financeiro, o CONTRATANTE responderá ao pedido dentro do prazo máximo de 15 (quinze) dias úteis contados da data do protocolo correspondente, devidamente instruído da documentação suporte.\n9.4. Dentro do prazo previsto no item 9.3. o CONTRATANTE poderá requerer esclarecimentos e realizar diligências junto a CONTRATADA ou a terceiros, hipótese em que o prazo para resposta será suspenso."
+    },
+    {
+      "chunk_id": "88201298000149-1-000679-2026#c0136",
+      "secao": "11.2. O reequilíbrio econômico-financeiro poderá ser indicado pelo CONTRATANTE ou solicitado pela CONTRATADA.",
+      "texto": "11.2. O reequilíbrio econômico-financeiro poderá ser indicado pelo CONTRATANTE ou solicitado pela CONTRATADA.\n11.3. Em sendo solicitado o reequilíbrio econômico-financeiro, o CONTRATANTE responderá ao pedido dentro do prazo máximo de 15 (quinze) dias úteis contados da data do protocolo correspondente, devidamente instruído da documentação suporte.\n11.4. Dentro do prazo previsto no item 9.3. o CONTRATANTE poderá requerer esclarecimentos e realizar diligências junto a CONTRATADA ou a terceiros, hipótese em que o prazo para resposta será suspenso."
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 5836,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.098,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

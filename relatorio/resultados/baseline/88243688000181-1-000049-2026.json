@@ -1,0 +1,15 @@
+{
+  "id_edital": "88243688000181-1-000049-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": 15720.0,
+    "modalidade": "pregao eletronico",
+    "objeto": "0,5% do valor total da aquisição, por dia decorrido, até o limite máximo de 10 (dez) dias de atraso, após o que valerá a regra 7.1.2 deste subitem;",
+    "orgao_responsavel": null,
+    "uf": "RS",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "1 anos"
+  },
+  "latencia_s": 0.0095,
+  "executor": "baseline_regex"
+}

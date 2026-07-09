@@ -1,0 +1,235 @@
+{
+  "id_edital": "88861448000140-1-000291-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": "2026-06-16 09:00",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "pregao eletronico",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "88861448000140-1-000291-2026#c0430"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0510",
+      "secao": "12.4. O prazo máximo para entrega dos materiais será de até 05 (cinco) dias, contados da",
+      "texto": "12.4. O prazo máximo para entrega dos materiais será de até 05 (cinco) dias, contados da \nassinatura do contrato, emissão da Nota de Empenho ou recebimento da Ordem de \nFornecimento emi tida pela Administração Municipal, observadas as necessidades da \nAdministração e as condições estabelecidas no Termo de Referência, podendo ser fixado \nprazo inferior em situações de urgência devidamente justificadas, compatíveis com a \ncontinuidade do serviço público."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0004",
+      "secao": "EVENTO / PRAZO DATA / HORÁRIO",
+      "texto": "EVENTO / PRAZO DATA / HORÁRIO \nPublicação do Edital 01/06/2026 \nPedido de Esclarecimentos até 11/06/2026 às 09:00 \nImpugnação ao Edital até 11/06/2026 às 09:00 \nEnvio das Propostas A partir de 01/06/2026 às 09:00 \nAbertura das Propostas 16/06/2026 às 09:00 \nSessão Pública (Lances) 16/06/2026 às 09:01 \nManifestação de Intenção de Recurso na própria sessão \nRazões de Recurso 03 dias úteis \nContrarrazões 03 dias úteis \nLocal PORTAL DE COMPRAS PÚBLICAS\n\n[página 2]\nMunicípio de Piratini – Página 2"
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0450",
+      "secao": "6.1. As propostas deverão ser apresentadas exclusivamente por meio do siste ma",
+      "texto": "6.1. As propostas deverão ser apresentadas exclusivamente por meio do siste ma \neletrônico do Portal de Compras Públicas, até a data e horário estabelecidos no quadro \nde eventos deste Edital."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0499",
+      "secao": "11.3. O prazo para assinatura poderá ser prorrogado uma única vez, por igual período,",
+      "texto": "11.3. O prazo para assinatura poderá ser prorrogado uma única vez, por igual período, \ndesde que solicitado formalmente pelo fornecedor antes do término do prazo original e \ndevidamente justificado."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0571",
+      "secao": "18.1. As despesas decorrentes das futuras contratações oriundas da presente Ata de",
+      "texto": "18.1. As despesas decorrentes das futuras contratações oriundas da presente Ata de \nRegistro de Preços correrão à conta das dotações orçamentárias próprias das Secretarias \nMunicipais requisitantes, consignadas no orçamento vigente à época da contratação."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0503",
+      "secao": "11.6. As contratações decorrentes da Ata de Registro de Preços ocorrerão conforme a",
+      "texto": "11.6. As contratações decorrentes da Ata de Registro de Preços ocorrerão conforme a \nnecessidade da Administração, mediante emissão de Nota de Empenho ou instrumento \nequivalente."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0470",
+      "secao": "8.5. QUALIFICAÇÃO TÉCNICA",
+      "texto": "8.5. QUALIFICAÇÃO TÉCNICA \nA licitante deverá comprovar aptidão para fornecimento compatível com o objeto da \npresente contratação, mediante apresentação dos seguintes documentos:"
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0444",
+      "secao": "4.5. Em observância aos princípios da competitividade, economicidade, vantajosidade e",
+      "texto": "4.5. Em observância aos princípios da competitividade, economicidade, vantajosidade e \nseleção da proposta apta a gerar o resultado de contratação mais vantajoso para a \nAdministração, admitir-se-á a cotação de produtos equivalentes tecnicamente, desde \nque comprovadamente atendam integralmente às especificações técnicas mínimas, \npadrões de qualidade, viscosidade, desempenho, compatibilidade e demais requisitos \nestabelecidos no Termo de Referência, especialmente nos casos de mar cas referenciais \nadmitidas."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0446",
+      "secao": "5.1. A licitação será processada pelo Sistema de Registro de Preços.",
+      "texto": "5.1. A licitação será processada pelo Sistema de Registro de Preços."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0430",
+      "secao": "1.7. O critério de julgamento adotado será o de MENOR PREÇO POR ITEM, visando",
+      "texto": "1.7. O critério de julgamento adotado será o de MENOR PREÇO POR ITEM, visando \nmaior competitividade, economicidade, ampliação da disputa, melhor adequação técnica \ndos produtos e atendimento ao interesse público, nos termos do Termo de Referência."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0552",
+      "secao": "16.2. Constituem, entre outras, infrações administrativas:",
+      "texto": "16.2. Constituem, entre outras, infrações administrativas: \nI – deixar de entregar documentação exigida para o certame; \nII – não manter a proposta, salvo em decorrência de fato superveniente devidamente \njustificado; \nIII – apresentar declaração ou documentação falsa; \nIV – fraudar ou frustrar a licitação ou a execução contratual; \nV – comportar-se de modo inidôneo; \nVI – praticar atos ilícitos com vistas a frustrar os objetivos da licitação; \nVII – retardar injustificadamente o fornecimento dos materiais;\n\n[página 34]\nMunicípio de Piratini – Página 34 \nVIII – entregar produtos incompatíveis , adulterados, inadequados ou inferiores às \nespecificações exigidas; \nIX – deixar de substituir produtos rejeitados pela Administração; \nX – causar dano à Administração em razão de fornecimento inadequado ou incompatível; \nXI – descumprir obrigações assumidas na Ata de Registro de Preços ou instrumento \nequivalente."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0440",
+      "secao": "4.1. O certame será realizado na modalidade PREGÃO ELETRÔNICO, por meio do",
+      "texto": "4.1. O certame será realizado na modalidade PREGÃO ELETRÔNICO, por meio do \nPortal de Compras Públicas, nos termos da Lei Federal nº 14.133/2021, adotando -se o \nSistema de Registro de Preços , visando à futura e eventual contratação de empresa \nespecializada para o fornecimento parcelado dos materiais descritos no Termo de \nReferência."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0473",
+      "secao": "8.5.2. Os atestados deverão demonstrar que a licitante possui capacidade operacional e",
+      "texto": "8.5.2. Os atestados deverão demonstrar que a licitante possui capacidade operacional e \ncomercial para fornecimento de produtos compatíveis com os exigidos neste Edital, \nadmitindo-se objetos similares ou equivalentes tecnicamente."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0472",
+      "secao": "8.5.1. Apresentação de atestado(s) de capacidade técnica, emitido(s) por pessoa jurídica",
+      "texto": "8.5.1. Apresentação de atestado(s) de capacidade técnica, emitido(s) por pessoa jurídica \nde direito público ou privado, que comprovem o fornecimento satisfatório de materiais \nautomotivos, filtros, lubrificantes, fluidos, graxas, aditivos, produtos para \nmanutenção automotiva ou correlatos compatíveis em carac terísticas, natureza e \ncomplexidade operacional com o objeto da presente licitação."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0451",
+      "secao": "6.2. A proposta comercial deverá ser apresentada por item, observadas integralmente as",
+      "texto": "6.2. A proposta comercial deverá ser apresentada por item, observadas integralmente as \nespecificações técnicas constantes no Termo de Referência, contendo obrigatoriamente: \nI – valor unitário do item, expresso em moeda corrente nacional, com no máximo 02 \n(duas) casas decimais; \nII – valor total do item ofertado; \nIII – marca do produto ofertado, obrigatoriamente identificada; \nIV – modelo, referên cia técnica, código do fabricante ou especificação equivalente, \nquando aplicável ao item ofertado;\n\n[página 18]\nMunicípio de Piratini – Página 18 \nV – indicação das classificações técnicas exigidas no Termo de Referência, quando \naplicáveis ao item e passíveis de identificação técnica do fabricante , especialmente \npadrões API, ACEA, SAE, ILSAC, DIN, ASTM, ISO, JASO, NBR, INMETRO, MB,"
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0460",
+      "secao": "6.10. O julgamento das propostas ocorr erá pelo critério de MENOR PREÇO POR",
+      "texto": "6.10. O julgamento das propostas ocorr erá pelo critério de MENOR PREÇO POR \nITEM, devendo a licitante observar integralmente as exigências técnicas previstas no \nTermo de Referência, sob pena de desclassificação do item correspondente.\n\n[página 20]\nMunicípio de Piratini – Página 20"
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0443",
+      "secao": "4.4. O julgamento das propostas observará o critério de MENOR PREÇO POR ITEM,",
+      "texto": "4.4. O julgamento das propostas observará o critério de MENOR PREÇO POR ITEM, \ndevendo cada licitante aprese ntar proposta compatível com as exigências técnicas,\n\n[página 17]\nMunicípio de Piratini – Página 17 \nqualitativas e operacionais estabelecidas neste Edital e no Termo de Referência, sendo \ndesclassificadas as propostas que apresentarem produtos incompatíveis, insuficientes ou \nem desconformidade com as especificações mínimas exigidas."
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0338",
+      "secao": "MAIOR RENDIMENTO E VIDA ÚTIL DO",
+      "texto": "MAIOR RENDIMENTO E VIDA ÚTIL DO"
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0497",
+      "secao": "11.2. O fornecedor vencedor será convocado para assinatura da Ata no prazo de até 5",
+      "texto": "11.2. O fornecedor vencedor será convocado para assinatura da Ata no prazo de até 5 \n(cinco) dias úteis , contados da convoc ação formal, nos termos do art. 90 da Lei nº"
+    },
+    {
+      "chunk_id": "88861448000140-1-000291-2026#c0513",
+      "secao": "12.7. Constatada qualquer irregularidade, a contratada será formalmente notificada para",
+      "texto": "12.7. Constatada qualquer irregularidade, a contratada será formalmente notificada para \npromover a substituição dos produtos , às suas expensas, no prazo máximo de até 05 \n(cinco) dias úteis , ou outro prazo inferior definido pela Administração quando houver \nrisco de paralisação de serviço público essencial."
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 3646,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.137,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id_edital": "01519467000105-1-000041-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-05",
+    "valor_estimado": 50.0,
+    "modalidade": "dispensa",
+    "objeto": "a prestação de serviços diversos de recuperação, instalação, pintura, poda e ornamentação de logradouros públicos localizados na sede do Município de São Luís do Piauí – PI, com a finalidade de preparar a cidade p ara a realização de festividades institucionais, culturais e comunitárias.",
+    "orgao_responsavel": "PREFEITURA MUNICIPAL DE SÃO LUÍS DO PIAUÍ CNPJ N",
+    "uf": "PI",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "12 meses"
+  },
+  "latencia_s": 0.0225,
+  "executor": "baseline_regex"
+}

@@ -1,0 +1,249 @@
+{
+  "id_edital": "01519467000105-1-000040-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "dispensa",
+      "chunks_evidencia": [
+        "01519467000105-1-000040-2026#c0002"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "uf": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "01519467000105-1-000040-2026#c0006"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": "12 meses",
+      "chunks_evidencia": [
+        "01519467000105-1-000040-2026#c0181"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0161",
+      "secao": "6.5. O prazo de validade da proposta não deverá ser inferior a 60 (sessenta) dias a contar da",
+      "texto": "6.5. O prazo de validade da proposta não deverá ser inferior a 60 (sessenta) dias a contar da \ndata de abertura das Propostas de Preços.\n\n[página 19]"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0156",
+      "secao": "6.2. O prazo de entrega será o constante da proposta da Requisitada, que não poderá ser",
+      "texto": "6.2. O prazo de entrega será o constante da proposta da Requisitada, que não poderá ser \nsuperior a 24 (vinte e quatro) horas, contados da data da confirmação do recebimento da ordem \nde serviço/nota de empenho dos serviços solicitados."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0039",
+      "secao": "4.4. O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar",
+      "texto": "4.4. O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar \ndadata de sua apresentação."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0033",
+      "secao": "4.1. Encerrada a fase, será solicitado a proposta readequada no prazo de 60 minutos,",
+      "texto": "4.1. Encerrada a fase, será solicitado a proposta readequada no prazo de 60 minutos, \nverificada a conformidade da proposta classificada em primeiro lugar quanto à adequação \ndo objeto e à compatibilidade do preço em relação ao estipulado para a contratação."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0181",
+      "secao": "12.3. Empregar mão de obra especializada, trabalhadores em quantidades suficientes para",
+      "texto": "12.3. Empregar mão de obra especializada, trabalhadores em quantidades suficientes para \natender as demandas das prestações dos serviços."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0004",
+      "secao": "1.1. A contratação será feita através de lote único, conforme tabela constante no termo",
+      "texto": "1.1. A contratação será feita através de lote único, conforme tabela constante no termo \nde referência."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0079",
+      "secao": "7.4. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento",
+      "texto": "7.4. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento \neventualmente devido pela Administração ao contratado, além da perda desse valor, a\n\n[página 9]"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0072",
+      "secao": "6.4. O prazo de vigência da contratação é de 12(doze)meses, prorrogável conforme",
+      "texto": "6.4. O prazo de vigência da contratação é de 12(doze)meses, prorrogável conforme \nprevisão nos anexos a este Aviso de Contratação Direta."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0036",
+      "secao": "4.2.2. A negociação poderá ser feita com os demais fornecedores classificados,",
+      "texto": "4.2.2. A negociação poderá ser feita com os demais fornecedores classificados, \nrespeitada a ordem de classificação, quando o primeiro colocado, mesmo após a \nnegociação, for desclassificado em razão de sua proposta permanecer acima do preço \nmáximo definido para a contratação."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0028",
+      "secao": "3.11. Há exigência da garantia da contratação dos artigos 96 e seguintes da Lei nº 14.133,",
+      "texto": "3.11. Há exigência da garantia da contratação dos artigos 96 e seguintes da Lei nº 14.133, \nde 2021, pelas razões constantes do Estudo Técnico Preliminar, o licitante deverá apresentar \no recolhimento de quantia a título de garantia de proposta, de 1% (um por cent o) do valor \nglobal desta licitação, como condição de classificação de sua proposta na sua fase de análise, \nnão podendo haver identificação da empresa, sob pena de desclasificação\n\n[página 4]"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0002",
+      "secao": "1. OBJETO DA CONTRATAÇÃO DIRETA",
+      "texto": "1. OBJETO DA CONTRATAÇÃO DIRETA \n \nO objeto da presente dispensa é a escolha da proposta mais vantajosa para a contratação por \ndispensa de licitação para “ CONTRATAÇÃO PARA A PRESTAÇÃO DE SERVIÇOS DE"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0122",
+      "secao": "1.3. O objeto a ser licitado deve revestir-se de garantias mínimas indispensáveis a uma regular",
+      "texto": "1.3. O objeto a ser licitado deve revestir-se de garantias mínimas indispensáveis a uma regular \nprestação, conferindo suporte aos potenciais contratados para gerenciá -los sem que haja \nquebra de equilíbrio em curto ou médio espaço de tempo para qualquer das partes envolvidas."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0174",
+      "secao": "11. DOTAÇÃO ORÇAMENTARIA",
+      "texto": "11. DOTAÇÃO ORÇAMENTARIA"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0025",
+      "secao": "3.8. O licitante deverá confeccionar, de maneira individualizada e independente, a",
+      "texto": "3.8. O licitante deverá confeccionar, de maneira individualizada e independente, a \nproposta comercial e as planilhas de custos, incluindo todos os elementos necessários para \nanálise e julgamento da proposta, VALOR UNITÁRIO E TOTAL DO ITEM; VALOR TOTAL DO \nLOTE ÚNICO; MENSAL E ANUAL TOTAL; MARCA; MODELO; FABRICANTE; PROCEDÊNCIA;"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0016",
+      "secao": "3.1. O ingresso do fornecedor na disputa da dispensa eletrônica se dará com o",
+      "texto": "3.1. O ingresso do fornecedor na disputa da dispensa eletrônica se dará com o \ncadastramento de sua proposta inicial, na forma deste item."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0006",
+      "secao": "1.2. O critério de julgamento adotado será o menor preço, observadas as exigências contidas",
+      "texto": "1.2. O critério de julgamento adotado será o menor preço, observadas as exigências contidas \nneste Aviso de Contratação Direta e seus Anexos quanto às especificações do objeto."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0124",
+      "secao": "1.5. O Pregoeiro e sua Equipe de Apoio, devem tomar por base os preços pesquisados, aferindo-",
+      "texto": "1.5. O Pregoeiro e sua Equipe de Apoio, devem tomar por base os preços pesquisados, aferindo-\nos segundo as cotações, não podendo sobre qualquer pretexto aceitar preços inexequíveis ou \npreços excessivos para fins de contrato."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0092",
+      "secao": "8.2.2. Valer-se, para a contratação, de proposta obtida na pesquisa de preços",
+      "texto": "8.2.2. Valer-se, para a contratação, de proposta obtida na pesquisa de preços \nque serviu de base ao procedimento, se houver, privilegiando -se os menores \npreços,sempre que possível, e desde que atendidas às condições de habilitação exigidas. \n8.2.2.1. No caso do subitem anterior, a contratação será operacionalizada fora deste \nprocedimento. \n8.2.3. fixar prazo para que possa haver adequação das propostas ou da documentação de \nhabilitação, conforme o caso.\n\n[página 10]"
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0157",
+      "secao": "6.3. Deverão ser rigorosamente observadas às especificações dos serviços do objeto desta",
+      "texto": "6.3. Deverão ser rigorosamente observadas às especificações dos serviços do objeto desta \nlicitação, respeitando-se os requisitos mínimos exigidos. Serão aceitos serviços, com \nespecificações iguais ou superiores, observando, no entanto, o exclusivo critério de julgamento \npelo menor preço."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0069",
+      "secao": "6.2.1. O prazo previsto para assinatura do contrato ou aceitação da nota de empenho",
+      "texto": "6.2.1. O prazo previsto para assinatura do contrato ou aceitação da nota de empenho \nou instrumento equivalente poderá ser prorrogado 1 (uma) vez, por igual período, por \nsolicitação justificada do adjudicatário e aceita pela Administração."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0068",
+      "secao": "6.2. O adjudicatário terá o prazo de 01 (um) dia útil, contado a partir da data de sua",
+      "texto": "6.2. O adjudicatário terá o prazo de 01 (um) dia útil, contado a partir da data de sua \nconvocação, para assinar o Termo de Contrato ou aceitar instrumento equivalente, \nconforme o caso (Nota de Empenho/Carta Contrato/Autorização), sob pena de decair do \ndireito à contratação, sem prejuízo das sanções previstas neste Aviso de Contratação \nDireta."
+    },
+    {
+      "chunk_id": "01519467000105-1-000040-2026#c0167",
+      "secao": "8.2. A contratação será celebrada em até 2 dias, contados da data da assinatura do contrato.",
+      "texto": "8.2. A contratação será celebrada em até 2 dias, contados da data da assinatura do contrato."
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 3068,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.044,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

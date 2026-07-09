@@ -1,0 +1,15 @@
+{
+  "id_edital": "22981427000150-1-000017-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-01",
+    "valor_estimado": 732364.85,
+    "modalidade": "concorrencia",
+    "objeto": "EXECUÇÃO DE OBRA DE ENGENHARIA PARA AMPLIAÇÃO DA EMEF JÚLIA GONÇALVES PASSARINHO, CONTEMPLANDO A CONSTRUÇÃO DE SALAS DE AULA, GALPÃO E REFEITÓRIO, CONFORME PROJETOS E ESPECIFICAÇÕES TÉCNICAS NO MUNICÍPIO DE PACAJÁ/PA De acordo com o Art.",
+    "orgao_responsavel": "PREFEITURA MUNICIPAL DE PACAJÁ CNPJ",
+    "uf": "PA",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "12 meses"
+  },
+  "latencia_s": 0.064,
+  "executor": "baseline_regex"
+}

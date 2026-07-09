@@ -1,0 +1,15 @@
+{
+  "id_edital": "01519467000105-1-000040-2026",
+  "extracao": {
+    "prazo_entrega_proposta": "2026-06-05",
+    "valor_estimado": null,
+    "modalidade": "dispensa",
+    "objeto": null,
+    "orgao_responsavel": "PREFEITURA MUNICIPAL DE SÃO LUÍS DO PIAUÍ CNPJ N",
+    "uf": "PI",
+    "criterio_julgamento": "menor preco",
+    "prazo_execucao": "12 meses"
+  },
+  "latencia_s": 0.0169,
+  "executor": "baseline_regex"
+}

@@ -1,0 +1,414 @@
+[
+  {
+    "id_edital": "88201298000149-1-000679-2026",
+    "numero_controle_pncp": "88201298000149-1-000679/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-07-06T08:31:00",
+      "valor_estimado": 554771.65,
+      "modalidade": "Pregão - Eletrônico",
+      "objeto": "Sistema de Registro de Preços para possíveis aquisições de 5 veículos ZERO KM",
+      "orgao_responsavel": "MUNICIPIO DE LAVRAS DO SUL",
+      "uf": "RS",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Lavras do Sul",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": false,
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "88861448000140-1-000291-2026",
+    "numero_controle_pncp": "88861448000140-1-000291/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-16T09:00:00",
+      "valor_estimado": 2254462.43,
+      "modalidade": "Pregão - Eletrônico",
+      "objeto": "[Portal de Compras Públicas] - Registro de Preços para futura e eventual contratação de empresa especializada para o fornecimento parcelado de filtros automotivos, óleos lubrificantes, fluidos, líquidos de freio, aditivos para radiadores, graxas, desengripantes, desengraxantes e produtos correlatos, destinados à manutenção preventiva e corretiva da frota de veículos, máquinas, equipamentos e implementos pertencentes às diversas Secretarias do Município de Piratini/RS",
+      "orgao_responsavel": "MUNICIPIO DE PIRATINI",
+      "uf": "RS",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Piratini",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "88243688000181-1-000049-2026",
+    "numero_controle_pncp": "88243688000181-1-000049/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-16T09:00:00",
+      "valor_estimado": 11600.0,
+      "modalidade": "Pregão - Eletrônico",
+      "objeto": "Formalização de Registro de Preços (SRP) com vistas à contratação de pessoa jurídica para fornecimento de suprimentos para a confecção de crachás, conforme especificações e condições previstas no Edital e seus Anexos.",
+      "orgao_responsavel": "RIO GRANDE DO SUL ASSEMBLEIA LEGISLATIVA",
+      "uf": "RS",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Porto Alegre",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": false,
+      "valor_estimado": true,
+      "modalidade": false,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "34812644000104-1-000006-2026",
+    "numero_controle_pncp": "34812644000104-1-000006/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-17T08:00:00",
+      "valor_estimado": 66000.0,
+      "modalidade": "Pregão - Eletrônico",
+      "objeto": "Contratação de empresa especializada para prestação de serviços continuados de manutenção, limpeza e conservação de áreas verdes (jardinagem) e manutenção e tratamento de piscina, com fornecimento de mão de obra, equipamentos, ferramentas, EPIs e todos os insumos necessários, a serem executados sob demanda, mediante emissão de Ordem de Serviço, na sede provisória do Conselho Regional de Odontologia de Roraima – CRO-RR.",
+      "orgao_responsavel": "CONSELHO REGIONAL DE ODONTOLOGIA DE RORAIMA",
+      "uf": "RR",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Boa Vista",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": false,
+      "valor_estimado": true,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "46374500000194-1-004194-2026",
+    "numero_controle_pncp": "46374500000194-1-004194/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-15T08:00:00",
+      "valor_estimado": null,
+      "modalidade": "Pregão - Eletrônico",
+      "objeto": "Aquisição de Cartucho de Toner, ref. 8524b003aa para Impressora Canon, preto",
+      "orgao_responsavel": "SECRETARIA DE ESTADO DA SAUDE",
+      "uf": "SP",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": true,
+    "municipio": "São Paulo",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": false
+    }
+  },
+  {
+    "id_edital": "46374500000194-1-004195-2026",
+    "numero_controle_pncp": "46374500000194-1-004195/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-17T08:00:00",
+      "valor_estimado": null,
+      "modalidade": "Pregão - Eletrônico",
+      "objeto": "Aquisição de Medicamentos de Óleo de Papoula a Vimblastina",
+      "orgao_responsavel": "SECRETARIA DE ESTADO DA SAUDE",
+      "uf": "SP",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": true,
+    "municipio": "São Paulo",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "12122065000199-1-000067-2026",
+    "numero_controle_pncp": "12122065000199-1-000067/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-15T08:30:00",
+      "valor_estimado": 1295396.59,
+      "modalidade": "Concorrência - Eletrônica",
+      "objeto": "[LICITANET] - CONTRATAÇÃO DE EMPRESA PARA REFORMA DO MATADOURO PÚBLICO MUNICIPAL DA PREFEITURA MUNICIPAL ZÉ DOA -MA",
+      "orgao_responsavel": "MUNICIPIO DE ZE DOCA",
+      "uf": "MA",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Zé Doca",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": true,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "56024581000156-1-000199-2026",
+    "numero_controle_pncp": "56024581000156-1-000199/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-18T09:00:00",
+      "valor_estimado": 14433790.27,
+      "modalidade": "Concorrência - Eletrônica",
+      "objeto": "Contratação de empresa especializada para execução de obras de drenagem, redes de água, redes de esgotamento sanitário, pavimentação e urbanismo em ruas e travessas dos bairros Jardim Itaú Mirim e Jardim Recreio, conforme edital e seus anexos.",
+      "orgao_responsavel": "MUNICIPIO DE RIBEIRAO PRETO",
+      "uf": "SP",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Ribeirão Preto",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": false,
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "02304470000174-1-000068-2026",
+    "numero_controle_pncp": "02304470000174-1-000068/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-07-09T14:00:00",
+      "valor_estimado": 389970.92,
+      "modalidade": "Concorrência - Eletrônica",
+      "objeto": "Contratação de empresa especializada para a elaboração de projetos de arquitetura e complementares de engenharia, em metodologia BIM, destinados à construção da nova sede da Promotoria de Justiça de Viana​.",
+      "orgao_responsavel": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+      "uf": "ES",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Vila Velha",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": false,
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "22981427000150-1-000015-2026",
+    "numero_controle_pncp": "22981427000150-1-000015/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-24T09:00:00",
+      "valor_estimado": 1311263.9,
+      "modalidade": "Concorrência - Eletrônica",
+      "objeto": "Prestação de serviços de urbanização e drenagem de áreas em frente a br-230 vila arataú",
+      "orgao_responsavel": "MUNICIPIO DE PACAJA",
+      "uf": "PA",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Pacajá",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": true,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "22981427000150-1-000016-2026",
+    "numero_controle_pncp": "22981427000150-1-000016/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-25T09:00:00",
+      "valor_estimado": 1995550.75,
+      "modalidade": "Concorrência - Eletrônica",
+      "objeto": "Obras de engenharia prestação de serviços de drenagem no bairro alto bonito município de pacajá/pa",
+      "orgao_responsavel": "MUNICIPIO DE PACAJA",
+      "uf": "PA",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Pacajá",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": true,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "22981427000150-1-000017-2026",
+    "numero_controle_pncp": "22981427000150-1-000017/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-26T09:00:00",
+      "valor_estimado": 732364.85,
+      "modalidade": "Concorrência - Eletrônica",
+      "objeto": "Execução de obra de engenharia para ampliação da emef júlia gonçalves passarinho, contemplando a construção de salas de aula, galpão e refeitório, conforme projetos e especificações técnicas no município de pacajá/pa",
+      "orgao_responsavel": "MUNICIPIO DE PACAJA",
+      "uf": "PA",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Pacajá",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": true,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "02928213000103-1-000033-2026",
+    "numero_controle_pncp": "02928213000103-1-000033/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": null,
+      "valor_estimado": 380.0,
+      "modalidade": "Dispensa",
+      "objeto": "- SERVIÇOS EM MANUTENÇAO DE EQUIPAMENTOS DE INFORMATICA DESTA CAMARA MUNICIPAL.",
+      "orgao_responsavel": "CAMARA MUNICIPAL DE ADELANDIA",
+      "uf": "GO",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Adelândia",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": false,
+      "criterio_julgamento": false
+    }
+  },
+  {
+    "id_edital": "02928213000103-1-000034-2026",
+    "numero_controle_pncp": "02928213000103-1-000034/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": null,
+      "valor_estimado": 537.46,
+      "modalidade": "Dispensa",
+      "objeto": "- FORNECIMENTO DE REFEIÇOES PARA VEREADORES E SERVIDORES DESTA CAMARA MUNICIPAL.",
+      "orgao_responsavel": "CAMARA MUNICIPAL DE ADELANDIA",
+      "uf": "GO",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "Adelândia",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": false,
+      "criterio_julgamento": false
+    }
+  },
+  {
+    "id_edital": "01519467000105-1-000040-2026",
+    "numero_controle_pncp": "01519467000105-1-000040/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-05T10:30:00",
+      "valor_estimado": 19952.33,
+      "modalidade": "Dispensa",
+      "objeto": "CONTRATAÇÃO PARA A PRESTAÇÃO DE SERVIÇOS DE ORNAMENTAÇÃO DE EVENTOS CULTURAIS ALUSIVOS ÀS FESTA JUNINAS REALIZADOS PELA PREFEITURA E SECRETARIAS DO MUNICÍPIO DE SÃO LUÍS DO PIAUÍ-PI",
+      "orgao_responsavel": "MUNICIPIO DE SAO LUIS DO PIAUI",
+      "uf": "PI",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "São Luis do Piauí",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  },
+  {
+    "id_edital": "01519467000105-1-000041-2026",
+    "numero_controle_pncp": "01519467000105-1-000041/2026",
+    "ground_truth": {
+      "prazo_entrega_proposta": "2026-06-05T09:00:00",
+      "valor_estimado": 50008.49,
+      "modalidade": "Dispensa",
+      "objeto": "Contratação para a prestação de serviços Diversos de Recuperação, Instalação, Pintura, Poda e Pintura em vários logradouros da Sede, com a finalidade de Ornamentação para as Festividades da cidade de São Luís do Piauí-PI",
+      "orgao_responsavel": "MUNICIPIO DE SAO LUIS DO PIAUI",
+      "uf": "PI",
+      "criterio_julgamento": "Menor preço"
+    },
+    "orcamento_sigiloso": false,
+    "municipio": "São Luis do Piauí",
+    "situacao": "Divulgada no PNCP",
+    "fonte": "PNCP - API pública de consulta (metadados oficiais)",
+    "gt_presente_no_texto": {
+      "prazo_entrega_proposta": true,
+      "valor_estimado": false,
+      "modalidade": true,
+      "objeto": true,
+      "orgao_responsavel": true,
+      "uf": true,
+      "criterio_julgamento": true
+    }
+  }
+]

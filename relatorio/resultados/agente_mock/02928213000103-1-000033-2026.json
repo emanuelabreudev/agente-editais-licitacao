@@ -1,0 +1,159 @@
+{
+  "id_edital": "02928213000103-1-000033-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "dispensa",
+      "chunks_evidencia": [
+        "02928213000103-1-000033-2026#c0003"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": "ESTADO DE GOIAS CAMARA MUNICIPAL DE ADELANDIA CERTIDÃO DE P",
+      "chunks_evidencia": [
+        "02928213000103-1-000033-2026#c0001"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "uf": {
+      "valor": "GO",
+      "chunks_evidencia": [
+        "02928213000103-1-000033-2026#c0003"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "criterio_julgamento": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "02928213000103-1-000033-2026#c0003",
+      "secao": "CERTIDÃO DE PUBLICAÇÃO",
+      "texto": "CERTIDÃO DE PUBLICAÇÃO\nCertifico que o processo nº 43/2026 referente a(o) DISPENSA DE LICITAÇÃO\n1688/2026 para - SERVIÇOS EM MANUTENÇAO DE EQUIPAMENTOS DE\nINFORMATICA DESTA CAMARA MUNICIPAL. foi publicado no Site oficial do Município em\n10/04/2026 conforme determinação prevista na Lei 14.133/21.\nADELÂNDIA, 10 de abril de 2026\nValide a assinatura deste documento em https://camaraadelandia.megasoftservicos.com.br//cidadao/autenticar-assinatura com o código: 24a187"
+    },
+    {
+      "chunk_id": "02928213000103-1-000033-2026#c0000",
+      "secao": "PREÂMBULO",
+      "texto": "[página 1]\nPÁG: 0001"
+    },
+    {
+      "chunk_id": "02928213000103-1-000033-2026#c0001",
+      "secao": "ESTADO DE GOIAS",
+      "texto": "ESTADO DE GOIAS"
+    },
+    {
+      "chunk_id": "02928213000103-1-000033-2026#c0002",
+      "secao": "CAMARA MUNICIPAL DE ADELANDIA",
+      "texto": "CAMARA MUNICIPAL DE ADELANDIA"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 2167,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.047,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

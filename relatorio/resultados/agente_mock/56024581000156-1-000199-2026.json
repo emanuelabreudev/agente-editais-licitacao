@@ -1,0 +1,164 @@
+{
+  "id_edital": "56024581000156-1-000199-2026",
+  "extracao": {
+    "prazo_entrega_proposta": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "valor_estimado": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "modalidade": {
+      "valor": "concorrencia",
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": false
+    },
+    "objeto": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    },
+    "orgao_responsavel": {
+      "valor": "PREFEITURA MUNICIPAL DE RIBEIRAO PRETO - SP RELAÇÃO DE ITENS - CONCORRÊNCIA N",
+      "chunks_evidencia": [
+        "56024581000156-1-000199-2026#c0002"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "uf": {
+      "valor": "SP",
+      "chunks_evidencia": [
+        "56024581000156-1-000199-2026#c0002"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "criterio_julgamento": {
+      "valor": "menor preco",
+      "chunks_evidencia": [
+        "56024581000156-1-000199-2026#c0004"
+      ],
+      "citacao": null,
+      "confianca": 0.5,
+      "evidencia_valida": true
+    },
+    "prazo_execucao": {
+      "valor": null,
+      "chunks_evidencia": [],
+      "citacao": null,
+      "confianca": 0.0,
+      "evidencia_valida": null
+    }
+  },
+  "contextos": [
+    {
+      "chunk_id": "56024581000156-1-000199-2026#c0002",
+      "secao": "986969 - PREFEITURA MUNICIPAL DE RIBEIRAO PRETO - SP",
+      "texto": "986969 - PREFEITURA MUNICIPAL DE RIBEIRAO PRETO - SP\nRELAÇÃO DE ITENS - CONCORRÊNCIA Nº 90005/2026-000"
+    },
+    {
+      "chunk_id": "56024581000156-1-000199-2026#c0001",
+      "secao": "95611 - PREFEITURA DE RIBEIRÃO PRETO",
+      "texto": "95611 - PREFEITURA DE RIBEIRÃO PRETO"
+    },
+    {
+      "chunk_id": "56024581000156-1-000199-2026#c0004",
+      "secao": "1 - Obras Civis Públicas ( Construção )",
+      "texto": "1 - Obras Civis Públicas ( Construção )\nDescrição Detalhada: Contratação de empresa especializada para execução de obras de drenagem, redes de água, redes de\nesgotamento sanitário, pavimentação e urbanismo em ruas e travessas dos bairros Jardim Itaú Mirim e Jardim Recreio\nTratamento Diferenciado: Não\nAplicabilidade Decreto 7174/2010: Não\nQuantidade Total: 1\nCritério de Julgamento: Menor Preço Critério de Valor: Valor Estimado\nValor Total (R$): 14.433.790,27\nUnidade de Fornecimento: UNIDADE\nIntervalo Mínimo entre Lances (%): 0,50\nLocal de Entrega (Quantidade): Ribeirão Preto/SP (1)\nCONCORRÊNCIA Nº 90005/2026-000 UASG 986969 (1/1)27/05/2026 11:01"
+    },
+    {
+      "chunk_id": "56024581000156-1-000199-2026#c0003",
+      "secao": "1 - Itens da Licitação",
+      "texto": "1 - Itens da Licitação"
+    },
+    {
+      "chunk_id": "56024581000156-1-000199-2026#c0000",
+      "secao": "PREÂMBULO",
+      "texto": "[página 1]"
+    }
+  ],
+  "iteracoes": 2,
+  "uso": {
+    "modelo": "mock",
+    "chamadas": 2,
+    "tokens_entrada": 2681,
+    "tokens_saida": 400,
+    "custo_usd": 0.0,
+    "latencia_total_s": 0.0
+  },
+  "latencia_s": 0.102,
+  "trace": [
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "data limite para entrega e abertura das propostas",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "valor total estimado da contratação",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "modalidade da licitação pregão concorrência dispensa",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "objeto da licitação descrição",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "critério de julgamento menor preço",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 1,
+      "ferramenta": "buscar_trechos",
+      "entrada": {
+        "consulta": "prazo de execução vigência do contrato",
+        "top_k": 4
+      },
+      "erro": false
+    },
+    {
+      "iteracao": 2,
+      "ferramenta": "registrar_extracao"
+    }
+  ]
+}

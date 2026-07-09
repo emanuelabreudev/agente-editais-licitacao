@@ -1,0 +1,15 @@
+{
+  "id_edital": "46374500000194-1-004194-2026",
+  "extracao": {
+    "prazo_entrega_proposta": null,
+    "valor_estimado": null,
+    "modalidade": "pregao eletronico",
+    "objeto": null,
+    "orgao_responsavel": null,
+    "uf": null,
+    "criterio_julgamento": null,
+    "prazo_execucao": null
+  },
+  "latencia_s": 0.0159,
+  "executor": "baseline_regex"
+}

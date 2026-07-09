@@ -1,0 +1,817 @@
+{
+  "resumo": {
+    "n_editais": 16,
+    "faithfulness": {
+      "media": 0.9125,
+      "desvio_padrao": 0.1572330188676101,
+      "ic95_bootstrap": [
+        0.8375,
+        0.9791666666666666
+      ],
+      "n_validos": 16
+    },
+    "faithfulness_criticos": {
+      "media": 0.9375,
+      "desvio_padrao": 0.1707825127659933,
+      "ic95_bootstrap": [
+        0.84375,
+        1.0
+      ],
+      "n_validos": 16
+    },
+    "taxa_alucinacao": {
+      "media": 0.08750000000000002,
+      "desvio_padrao": 0.1572330188676101,
+      "ic95_bootstrap": [
+        0.020833333333333336,
+        0.1625
+      ],
+      "n_validos": 16
+    },
+    "answer_correctness": {
+      "media": 0.5219123325310648,
+      "desvio_padrao": 0.1543927855427321,
+      "ic95_bootstrap": [
+        0.4488138203159906,
+        0.5916644169692882
+      ],
+      "n_validos": 16
+    },
+    "answer_correctness_disponivel": {
+      "media": 0.6993532778695226,
+      "desvio_padrao": 0.3111024169394737,
+      "ic95_bootstrap": [
+        0.5567598691862077,
+        0.8381006635702214
+      ],
+      "n_validos": 16
+    },
+    "answer_correctness_f1": {
+      "media": 0.51875,
+      "desvio_padrao": 0.18933362676033602,
+      "ic95_bootstrap": [
+        0.42703125,
+        0.60625
+      ],
+      "n_validos": 16
+    },
+    "answer_correctness_similaridade": {
+      "media": 0.531399330124259,
+      "desvio_padrao": 0.1976105460263364,
+      "ic95_bootstrap": [
+        0.4395229513756931,
+        0.6254370010923594
+      ],
+      "n_validos": 16
+    },
+    "acuracia_criticos": {
+      "media": 0.3958333333333333,
+      "desvio_padrao": 0.15957118462605635,
+      "ic95_bootstrap": [
+        0.32291666666666663,
+        0.46875
+      ],
+      "n_validos": 16
+    },
+    "acuracia_criticos_disponiveis": {
+      "media": 0.6458333333333333,
+      "desvio_padrao": 0.38908725099762503,
+      "ic95_bootstrap": [
+        0.46875,
+        0.8229166666666666
+      ],
+      "n_validos": 16
+    },
+    "proporcao_citacoes_validas": {
+      "media": 0.6270833333333333,
+      "desvio_padrao": 0.26498602339103206,
+      "ic95_bootstrap": [
+        0.49687499999999996,
+        0.7500260416666665
+      ],
+      "n_validos": 16
+    },
+    "latencia_s": {
+      "media": 0.07975,
+      "desvio_padrao": 0.028727454928459406,
+      "ic95_bootstrap": [
+        0.066121875,
+        0.093375
+      ],
+      "n_validos": 16
+    },
+    "acuracia_por_campo": {
+      "prazo_entrega_proposta": {
+        "acuracia": 0.14285714285714285,
+        "n_avaliados": 14
+      },
+      "valor_estimado": {
+        "acuracia": 0.2857142857142857,
+        "n_avaliados": 14
+      },
+      "modalidade": {
+        "acuracia": 0.6875,
+        "n_avaliados": 16
+      },
+      "objeto": {
+        "acuracia": 0.0,
+        "n_avaliados": 16
+      },
+      "orgao_responsavel": {
+        "acuracia": 0.25,
+        "n_avaliados": 16
+      },
+      "uf": {
+        "acuracia": 0.4375,
+        "n_avaliados": 16
+      },
+      "criterio_julgamento": {
+        "acuracia": 0.8125,
+        "n_avaliados": 16
+      }
+    },
+    "alvo": "agente_mock",
+    "juiz": "heuristico"
+  },
+  "por_edital": [
+    {
+      "id_edital": "01519467000105-1-000040-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true,
+        "criterio_julgamento": true,
+        "prazo_execucao": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.43920059502124786,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.25680238008499146,
+      "answer_correctness_disponivel": 0.5684612914919853,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.5,
+      "proporcao_citacoes_validas": 1.0,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3068,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.044
+    },
+    {
+      "id_edital": "01519467000105-1-000041-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "valor_estimado": true,
+        "modalidade": true,
+        "uf": true,
+        "criterio_julgamento": true,
+        "prazo_execucao": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.11333230882883072,
+      "answer_correctness_f1": 0.0,
+      "answer_correctness_similaridade": 0.4533292353153229,
+      "answer_correctness_disponivel": 0.04571493715047836,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": false,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.0,
+      "acuracia_criticos_disponiveis": 0.0,
+      "proporcao_citacoes_validas": 0.6,
+      "campos_preenchidos": 5,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3678,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.125
+    },
+    {
+      "id_edital": "02304470000174-1-000068-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.4728156477212906,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.39126259088516235,
+      "answer_correctness_disponivel": 0.9551299214363098,
+      "campos_criticos_disponiveis": [
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 0.75,
+      "campos_preenchidos": 4,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 2856,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.06
+    },
+    {
+      "id_edital": "02928213000103-1-000033-2026",
+      "faithfulness": 0.6666666666666666,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true,
+        "orgao_responsavel": true,
+        "uf": false
+      },
+      "taxa_alucinacao": 0.33333333333333337,
+      "answer_correctness": 0.6017443090677261,
+      "answer_correctness_f1": 0.6666666666666666,
+      "answer_correctness_similaridade": 0.40697723627090454,
+      "answer_correctness_disponivel": 0.983280211687088,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": null,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": false
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 1.0,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 2167,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.047
+    },
+    {
+      "id_edital": "02928213000103-1-000034-2026",
+      "faithfulness": 0.6666666666666666,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true,
+        "orgao_responsavel": true,
+        "uf": false
+      },
+      "taxa_alucinacao": 0.33333333333333337,
+      "answer_correctness": 0.5999076068401337,
+      "answer_correctness_f1": 0.6666666666666666,
+      "answer_correctness_similaridade": 0.39963042736053467,
+      "answer_correctness_disponivel": 0.983280211687088,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": null,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": false
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 1.0,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 2168,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.043
+    },
+    {
+      "id_edital": "12122065000199-1-000067-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.46958623826503754,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.37834495306015015,
+      "answer_correctness_disponivel": 0.46958623826503754,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.3333333333333333,
+      "proporcao_citacoes_validas": 0.6666666666666666,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 6558,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.082
+    },
+    {
+      "id_edital": "22981427000150-1-000015-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "valor_estimado": true,
+        "criterio_julgamento": true,
+        "prazo_execucao": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.5065113008022308,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.5260452032089233,
+      "answer_correctness_disponivel": 0.5065113008022308,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": false,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.3333333333333333,
+      "proporcao_citacoes_validas": 0.6666666666666666,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3294,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.098
+    },
+    {
+      "id_edital": "22981427000150-1-000016-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "valor_estimado": true,
+        "criterio_julgamento": true,
+        "prazo_execucao": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.5140237510204315,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.5560950040817261,
+      "answer_correctness_disponivel": 0.5140237510204315,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": false,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.3333333333333333,
+      "proporcao_citacoes_validas": 0.6666666666666666,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3180,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.104
+    },
+    {
+      "id_edital": "22981427000150-1-000017-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": true,
+        "criterio_julgamento": true,
+        "prazo_execucao": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.5039154171943665,
+      "answer_correctness_f1": 0.4,
+      "answer_correctness_similaridade": 0.8156616687774658,
+      "answer_correctness_disponivel": 0.5039154171943665,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": false,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.3333333333333333,
+      "proporcao_citacoes_validas": 0.5,
+      "campos_preenchidos": 4,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3460,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.084
+    },
+    {
+      "id_edital": "34812644000104-1-000006-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "valor_estimado": true,
+        "modalidade": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.760083830356598,
+      "answer_correctness_f1": 0.8,
+      "answer_correctness_similaridade": 0.6403353214263916,
+      "answer_correctness_disponivel": 0.9819355905056,
+      "campos_criticos_disponiveis": [
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": true,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 0.5,
+      "campos_preenchidos": 4,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 2889,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.06
+    },
+    {
+      "id_edital": "46374500000194-1-004194-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.5716746896505356,
+      "answer_correctness_f1": 0.6666666666666666,
+      "answer_correctness_similaridade": 0.28669875860214233,
+      "answer_correctness_disponivel": 0.9649935066699982,
+      "campos_criticos_disponiveis": [
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": null,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": false
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 0.0,
+      "campos_preenchidos": 1,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 6541,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.066
+    },
+    {
+      "id_edital": "46374500000194-1-004195-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "prazo_entrega_proposta": true,
+        "modalidade": true,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.5906676352024078,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.8626705408096313,
+      "answer_correctness_disponivel": 0.5906676352024078,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "valor_estimado",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": null,
+        "modalidade": false,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.5,
+      "acuracia_criticos_disponiveis": 0.5,
+      "proporcao_citacoes_validas": 0.3333333333333333,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 5126,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.068
+    },
+    {
+      "id_edital": "56024581000156-1-000199-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "modalidade": true,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.47310492396354675,
+      "answer_correctness_f1": 0.5,
+      "answer_correctness_similaridade": 0.392419695854187,
+      "answer_correctness_disponivel": 0.9551299214363098,
+      "campos_criticos_disponiveis": [
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": true,
+        "uf": true,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 0.75,
+      "campos_preenchidos": 4,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 2681,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.102
+    },
+    {
+      "id_edital": "88201298000149-1-000679-2026",
+      "faithfulness": 0.6666666666666666,
+      "faithfulness_criticos": 0.5,
+      "faithfulness_por_campo": {
+        "valor_estimado": true,
+        "modalidade": false,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.33333333333333337,
+      "answer_correctness": 0.4522556841373444,
+      "answer_correctness_f1": 0.4,
+      "answer_correctness_similaridade": 0.6090227365493774,
+      "answer_correctness_disponivel": 0.9649935066699982,
+      "campos_criticos_disponiveis": [
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 0.6666666666666666,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 5836,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.098
+    },
+    {
+      "id_edital": "88243688000181-1-000049-2026",
+      "faithfulness": 0.6,
+      "faithfulness_criticos": 0.5,
+      "faithfulness_por_campo": {
+        "valor_estimado": true,
+        "modalidade": false,
+        "objeto": true,
+        "criterio_julgamento": true,
+        "prazo_execucao": false
+      },
+      "taxa_alucinacao": 0.4,
+      "answer_correctness": 0.45912222862243657,
+      "answer_correctness_f1": 0.4,
+      "answer_correctness_similaridade": 0.6364889144897461,
+      "answer_correctness_disponivel": 0.2132885754108429,
+      "campos_criticos_disponiveis": [
+        "valor_estimado"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": false,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.3333333333333333,
+      "acuracia_criticos_disponiveis": 0.0,
+      "proporcao_citacoes_validas": 0.6,
+      "campos_preenchidos": 5,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3945,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.058
+    },
+    {
+      "id_edital": "88861448000140-1-000291-2026",
+      "faithfulness": 1.0,
+      "faithfulness_criticos": 1.0,
+      "faithfulness_por_campo": {
+        "prazo_entrega_proposta": true,
+        "modalidade": true,
+        "criterio_julgamento": true
+      },
+      "taxa_alucinacao": 0.0,
+      "answer_correctness": 0.8226511538028718,
+      "answer_correctness_f1": 0.8,
+      "answer_correctness_similaridade": 0.8906046152114868,
+      "answer_correctness_disponivel": 0.9887404292821884,
+      "campos_criticos_disponiveis": [
+        "prazo_entrega_proposta",
+        "modalidade"
+      ],
+      "acuracia_por_campo": {
+        "prazo_entrega_proposta": true,
+        "valor_estimado": false,
+        "modalidade": true,
+        "objeto": false,
+        "orgao_responsavel": false,
+        "uf": false,
+        "criterio_julgamento": true
+      },
+      "acuracia_criticos": 0.6666666666666666,
+      "acuracia_criticos_disponiveis": 1.0,
+      "proporcao_citacoes_validas": 0.3333333333333333,
+      "campos_preenchidos": 3,
+      "iteracoes": 2,
+      "uso": {
+        "modelo": "mock",
+        "chamadas": 2,
+        "tokens_entrada": 3646,
+        "tokens_saida": 400,
+        "custo_usd": 0.0,
+        "latencia_total_s": 0.0
+      },
+      "latencia_s": 0.137
+    }
+  ]
+}
